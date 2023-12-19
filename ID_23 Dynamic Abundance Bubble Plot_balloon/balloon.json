@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_balloon.inputFile": "/demo/demo_data/balloon/input.txt",
+  "henbio_wf.task_balloon.x_lab": "1",
+  "henbio_wf.task_balloon.y_lab": "2",
+  "henbio_wf.task_balloon.color_group": "3",
+  "henbio_wf.task_balloon.size_balloon": "4",
+  "henbio_wf.task_balloon.x_title": "bubble_plot",
+  "henbio_wf.task_balloon.y_title": "bubble_plot",
+  "henbio_wf.task_balloon.plot_title": "balloon",
+  "henbio_wf.task_balloon.outputFileName": "result",
+  "henbio_wf.task_balloon.ossTargetDir": "/demo/user/100001/tasks/tools-balloon",
+  "henbio_wf.task_balloon.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_balloon.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_balloon.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

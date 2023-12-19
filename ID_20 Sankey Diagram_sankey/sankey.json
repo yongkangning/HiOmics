@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_sankey.inputFile": "/demo/demo_data/sankey/input.txt",
+  "henbio_wf.task_sankey.stratum_width": "0.3",
+  "henbio_wf.task_sankey.is_alpha": "0.5",
+  "henbio_wf.task_sankey.text_size": "2",
+  "henbio_wf.task_sankey.x_size": "8",
+  "henbio_wf.task_sankey.plot_title": "sankey",
+  "henbio_wf.task_sankey.outputFileName": "result",
+  "henbio_wf.task_sankey.ossTargetDir": "/demo/user/100001/tasks/tools-sankey",
+  "henbio_wf.task_sankey.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_sankey.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_sankey.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

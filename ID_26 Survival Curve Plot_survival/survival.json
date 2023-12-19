@@ -1,0 +1,23 @@
+{
+  "henbio_wf.task_survival.inputFile": "/demo/demo_data/survival/input.txt",
+  "henbio_wf.task_survival.is_conf": "T",
+  "henbio_wf.task_survival.is_conf_style": "ribbon",
+  "henbio_wf.task_survival.con_alpha": "0.2",
+  "henbio_wf.task_survival.is_pval": "T",
+  "henbio_wf.task_survival.is_legend": "top",
+  "henbio_wf.task_survival.is_xlab": "time",
+  "henbio_wf.task_survival.is_ylab": "survival_probability",
+  "henbio_wf.task_survival.is_title": "survival",
+  "henbio_wf.task_survival.is_risk_table": "T",
+  "henbio_wf.task_survival.risk_table_height": "0.25",
+  "henbio_wf.task_survival.median_line": "hv",
+  "henbio_wf.task_survival.is_palette": "hue",
+  "henbio_wf.task_survival.is_censor": "T",
+  "henbio_wf.task_survival.is_ncensor": "T",
+  "henbio_wf.task_survival.outputFileName": "result",
+  "henbio_wf.task_survival.ossTargetDir": "/demo/user/100001/tasks/tools-survival",
+  "henbio_wf.task_survival.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_survival.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_survival.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

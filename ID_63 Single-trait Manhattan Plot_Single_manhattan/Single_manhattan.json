@@ -1,0 +1,18 @@
+{
+  "henbio_wf.task_Single_manhattan.inputFile1": "/demo/demo_data/Single_manhattan/input1.txt",
+  "henbio_wf.task_Single_manhattan.inputFile2": "/demo/demo_data/Single_manhattan/input2.txt",
+  "henbio_wf.task_Single_manhattan.inputFile3": "/demo/demo_data/Single_manhattan/input3.txt",
+  "henbio_wf.task_Single_manhattan.Highlight": "yes",
+  "henbio_wf.task_Single_manhattan.is_threshold": "yes",
+  "henbio_wf.task_Single_manhattan.suggestive_line": "0.00001",
+  "henbio_wf.task_Single_manhattan.annotate_Pval": "0.0001",
+  "henbio_wf.task_Single_manhattan.point_cex": "0.7",
+  "henbio_wf.task_Single_manhattan.axis_cex": "0.8",
+  "henbio_wf.task_Single_manhattan.is_main": "Manhattan_plot",
+  "henbio_wf.task_Single_manhattan.outputFileName": "manhattan",
+  "henbio_wf.task_Single_manhattan.ossTargetDir": "/demo/100001/tasks/tools-Single_manhattan",
+  "henbio_wf.task_Single_manhattan.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Single_manhattan.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Single_manhattan.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

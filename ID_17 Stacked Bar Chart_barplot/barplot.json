@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_barplot.inputFile": "/demo/demo_data/barplot/barplot.xls",
+  "henbio_wf.task_barplot.x_title": "x",
+  "henbio_wf.task_barplot.y_title": "y",
+  "henbio_wf.task_barplot.plot_title": "barplot",
+  "henbio_wf.task_barplot.is_width": "30",
+  "henbio_wf.task_barplot.outputFileName": "result",
+  "henbio_wf.task_barplot.ossTargetDir": "/demo/user/100001/tasks/tools-barplot",
+  "henbio_wf.task_barplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_barplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_barplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

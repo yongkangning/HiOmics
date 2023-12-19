@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_timeROC.inputFile1": "/demo/demo_data/timeROC/input.txt",
+  "henbio_wf.task_timeROC.inputFile2": "/demo/demo_data/timeROC/timeFile.txt",
+  "henbio_wf.task_timeROC.is_weighting": "marginal",
+  "henbio_wf.task_timeROC.legend_cex": "0.6",
+  "henbio_wf.task_timeROC.outputFileName": "result",
+  "henbio_wf.task_timeROC.ossTargetDir": "/demo/user/100001/tasks/tools-timeROC",
+  "henbio_wf.task_timeROC.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_timeROC.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_timeROC.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

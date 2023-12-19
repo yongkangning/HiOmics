@@ -1,0 +1,21 @@
+{
+  "henbio_wf.task_volcano.inputFile": "/demo/demo_data/volcano/input.txt",
+  "henbio_wf.task_volcano.x_lab": "2",
+  "henbio_wf.task_volcano.y_lab": "6",
+  "henbio_wf.task_volcano.p_filter": "0.05",
+  "henbio_wf.task_volcano.FC_filter": "2",
+  "henbio_wf.task_volcano.point_size": "0.8",
+  "henbio_wf.task_volcano.point_alpha": "0.5",
+  "henbio_wf.task_volcano.x_title": "logFC",
+  "henbio_wf.task_volcano.y_title": "-log10_pvalue",
+  "henbio_wf.task_volcano.plot_title": "volcano",
+  "henbio_wf.task_volcano.is_legend": "right",
+  "henbio_wf.task_volcano.is_label": "yes",
+  "henbio_wf.task_volcano.max_overlaps": "5",
+  "henbio_wf.task_volcano.outputFileName": "result",
+  "henbio_wf.task_volcano.ossTargetDir": "/demo/user/100001/tasks/tools-volcano",
+  "henbio_wf.task_volcano.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_volcano.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_volcano.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

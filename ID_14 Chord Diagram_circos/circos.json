@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_circos.inputFile1": "/demo/demo_data/circos/KO.abundance_with_level.tsv",
+  "henbio_wf.task_circos.inputFile2": "/henbio/henbio_web/public/demo_data/circos/group.txt",
+  "henbio_wf.task_circos.i_top": "10",
+  "henbio_wf.task_circos.is_big_gap": "15",
+  "henbio_wf.task_circos.Title": "circos",
+  "henbio_wf.task_circos.outputFileName": "circos_output",
+  "henbio_wf.task_circos.ossTargetDir": "/demo/user/100001/tasks/tools-circos",
+  "henbio_wf.task_circos.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_circos.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_circos.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

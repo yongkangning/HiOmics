@@ -1,0 +1,22 @@
+{
+  "henbio_wf.task_1xgxfx.inputFile": "/demo/demo_data/1xgxfx/input.txt",
+  "henbio_wf.task_1xgxfx.is_method": "pearson",
+  "henbio_wf.task_1xgxfx.is_cluster_cols": "T",
+  "henbio_wf.task_1xgxfx.is_cluster_rows": "T",
+  "henbio_wf.task_1xgxfx.is_show_colnames": "T",
+  "henbio_wf.task_1xgxfx.is_show_rownames": "T",
+  "henbio_wf.task_1xgxfx.is_scale": "row",
+  "henbio_wf.task_1xgxfx.cellwidthSize": "16",
+  "henbio_wf.task_1xgxfx.cellhightSize": "23",
+  "henbio_wf.task_1xgxfx.dis_num": "T",
+  "henbio_wf.task_1xgxfx.outputFile1": "result_cordata",
+  "henbio_wf.task_1xgxfx.outputFile2": "result_pvalue",
+  "henbio_wf.task_1xgxfx.outputFile3": "result",
+  "henbio_wf.task_1xgxfx.outPutFileType1": "txt",
+  "henbio_wf.task_1xgxfx.outPutFileType2": "svg",
+  "henbio_wf.task_1xgxfx.ossTargetDir": "/demo/user/100001/tasks/tools-1xgxfx",
+  "henbio_wf.task_1xgxfx.appBinDir": "/home/yongkangning/workflow/henbio-app/bin",
+  "henbio_wf.task_1xgxfx.RLibPath": "/home/yongkangning/workflow/R/library",
+  "henbio_wf.task_1xgxfx.cromwellDir": "/home/yongkangning/apps/cromwell/cromwell-executions/henbio_wf"
+}
+ 

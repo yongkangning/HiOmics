@@ -1,0 +1,19 @@
+{
+  "henbio_wf.task_2zujian_xgxfx.inputFile": "/demo/demo_data/2zujian_xgxfx/input.txt",
+  "henbio_wf.task_2zujian_xgxfx.inputFile2": "/henbio/henbio_web/public/demo_data/2zujian_xgxfx/input2.txt",
+  "henbio_wf.task_2zujian_xgxfx.is_method": "pearson",
+  "henbio_wf.task_2zujian_xgxfx.is_cluster_cols": "T",
+  "henbio_wf.task_2zujian_xgxfx.is_cluster_rows": "T",
+  "henbio_wf.task_2zujian_xgxfx.is_show_colnames": "T",
+  "henbio_wf.task_2zujian_xgxfx.is_show_rownames": "T",
+  "henbio_wf.task_2zujian_xgxfx.is_scale": "row",
+  "henbio_wf.task_2zujian_xgxfx.cellwidthSize": "13",
+  "henbio_wf.task_2zujian_xgxfx.cellhightSize": "13",
+  "henbio_wf.task_2zujian_xgxfx.dis_num": "T",
+  "henbio_wf.task_2zujian_xgxfx.outputFileName": "result",
+  "henbio_wf.task_2zujian_xgxfx.ossTargetDir": "/demo/user/100001/tasks/tools-2zujian_xgxfx",
+  "henbio_wf.task_2zujian_xgxfx.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_2zujian_xgxfx.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_2zujian_xgxfx.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_vioplot.inputFile": "/demo/demo_data/vioplot/input.txt",
+  "henbio_wf.task_vioplot.is_alpha": "0.3",
+  "henbio_wf.task_vioplot.Palette": "npg",
+  "henbio_wf.task_vioplot.x_title": "x",
+  "henbio_wf.task_vioplot.y_title": "y",
+  "henbio_wf.task_vioplot.plot_title": "vioplot",
+  "henbio_wf.task_vioplot.is_legend": "top",
+  "henbio_wf.task_vioplot.is_method": "t.test",
+  "henbio_wf.task_vioplot.p_sig": "pvalue",
+  "henbio_wf.task_vioplot.outputFileName": "result",
+  "henbio_wf.task_vioplot.ossTargetDir": "/demo/user/100001/tasks/tools-vioplot",
+  "henbio_wf.task_vioplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_vioplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_vioplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,15 @@
+{
+  "henbio_wf.task_M_catter_margin_density.inputFile": "/demo/demo_data/M_catter_margin_density/inputFile.tsv",
+  "henbio_wf.task_M_catter_margin_density.x_lab": "1",
+  "henbio_wf.task_M_catter_margin_density.y_lab": "2",
+  "henbio_wf.task_M_catter_margin_density.is_group": "3",
+  "henbio_wf.task_M_catter_margin_density.is_alpha": "0.5",
+  "henbio_wf.task_M_catter_margin_density.mar_type": "density",
+  "henbio_wf.task_M_catter_margin_density.mar_alpha": "0.3",
+  "henbio_wf.task_M_catter_margin_density.outputFileName": "result",
+  "henbio_wf.task_M_catter_margin_density.ossTargetDir": "/demo/user/100001/tasks/tools-M_catter_margin_density",
+  "henbio_wf.task_M_catter_margin_density.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_M_catter_margin_density.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_M_catter_margin_density.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

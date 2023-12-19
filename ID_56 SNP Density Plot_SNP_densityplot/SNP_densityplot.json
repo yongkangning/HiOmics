@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_SNP_densityplot.inputFile": "/demo/demo_data/SNP_densityplot/input.txt",
+  "henbio_wf.task_SNP_densityplot.is_binsize": "1000000",
+  "henbio_wf.task_SNP_densityplot.outputFileName": "SNP_densityplot",
+  "henbio_wf.task_SNP_densityplot.ossTargetDir": "/demo/user/100001/tasks/tools-SNP_densityplot",
+  "henbio_wf.task_SNP_densityplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_SNP_densityplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_SNP_densityplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

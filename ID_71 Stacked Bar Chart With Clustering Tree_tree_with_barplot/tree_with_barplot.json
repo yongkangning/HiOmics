@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_tree_with_barplot.inputFile": "/demo/demo_data/tree_with_barplot/input.txt",
+  "henbio_wf.task_tree_with_barplot.is_prop": "yes",
+  "henbio_wf.task_tree_with_barplot.dist_method": "bray",
+  "henbio_wf.task_tree_with_barplot.hclust_method": "complete",
+  "henbio_wf.task_tree_with_barplot.y_title": "y",
+  "henbio_wf.task_tree_with_barplot.plot_title": "tree_with_barplot",
+  "henbio_wf.task_tree_with_barplot.picture1_width": "1",
+  "henbio_wf.task_tree_with_barplot.picture2_width": "4",
+  "henbio_wf.task_tree_with_barplot.outputFileName": "result",
+  "henbio_wf.task_tree_with_barplot.ossTargetDir": "/demo/user/100001/tasks/tools-tree_with_barplot",
+  "henbio_wf.task_tree_with_barplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_tree_with_barplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_tree_with_barplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

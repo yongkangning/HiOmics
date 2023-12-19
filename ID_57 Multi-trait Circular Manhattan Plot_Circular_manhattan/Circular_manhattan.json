@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_Circular_manhattan.inputFile": "/demo/demo_data/Circular_manhattan/input.txt",
+  "henbio_wf.task_Circular_manhattan.is_density": "yes",
+  "henbio_wf.task_Circular_manhattan.is_threshold": "yes",
+  "henbio_wf.task_Circular_manhattan.number1": "0.01",
+  "henbio_wf.task_Circular_manhattan.is_binsize": "1000000",
+  "henbio_wf.task_Circular_manhattan.is_outward": "T",
+  "henbio_wf.task_Circular_manhattan.is_circhr": "T",
+  "henbio_wf.task_Circular_manhattan.circhr_high": "1.5",
+  "henbio_wf.task_Circular_manhattan.is_cir_legend": "T",
+  "henbio_wf.task_Circular_manhattan.outputFileName": "Manhattan",
+  "henbio_wf.task_Circular_manhattan.ossTargetDir": "/demo/user/100001/tasks/tools-Circular_manhattan",
+  "henbio_wf.task_Circular_manhattan.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Circular_manhattan.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Circular_manhattan.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

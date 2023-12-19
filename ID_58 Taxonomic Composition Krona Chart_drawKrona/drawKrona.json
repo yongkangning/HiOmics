@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_drawKrona.inputFile": "/demo/demo_data/drawKrona/sample1.txt",
+  "henbio_wf.task_drawKrona.outputFile": "all_krona.html",
+  "henbio_wf.task_drawKrona.ossTargetDir": "/demo/user/100001/tasks/tools-drawKrona",
+  "henbio_wf.task_drawKrona.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_drawKrona.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_drawKrona.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

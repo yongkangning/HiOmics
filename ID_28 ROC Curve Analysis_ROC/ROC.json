@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_ROC.inputFile": "/demo/demo_data/ROC/input.txt",
+  "henbio_wf.task_ROC.plot_title": "ROC_plot",
+  "henbio_wf.task_ROC.legend_cex": "0.6",
+  "henbio_wf.task_ROC.outputFileName": "result",
+  "henbio_wf.task_ROC.ossTargetDir": "/demo/user/100001/tasks/tools-ROC",
+  "henbio_wf.task_ROC.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_ROC.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_ROC.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

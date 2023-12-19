@@ -1,0 +1,19 @@
+{
+  "henbio_wf.task_violin.inputFile": "/demo/demo_data/violin/input.txt",
+  "henbio_wf.task_violin.is_alpha": "0.2",
+  "henbio_wf.task_violin.Palette": "npg",
+  "henbio_wf.task_violin.x_title": "x",
+  "henbio_wf.task_violin.y_title": "y",
+  "henbio_wf.task_violin.plot_title": "violinplot",
+  "henbio_wf.task_violin.is_legend": "top",
+  "henbio_wf.task_violin.is_method": "t.test",
+  "henbio_wf.task_violin.p_sig": "signif",
+  "henbio_wf.task_violin.is_facet": "no",
+  "henbio_wf.task_violin.is_nrow": "1",
+  "henbio_wf.task_violin.outputFileName": "result",
+  "henbio_wf.task_violin.ossTargetDir": "/demo/user/100001/tasks/tools-violin",
+  "henbio_wf.task_violin.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_violin.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_violin.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 
