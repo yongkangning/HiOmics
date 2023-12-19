@@ -1,0 +1,10 @@
+{
+    "henbio_wf.task_kmergenie.fastqRead1": "/demo/demo_data/kmergenie/sample.R1.fq.gz",
+    "henbio_wf.task_kmergenie.fastqRead2": "/demo/demo_data/kmergenie/sample.R2.fq.gz",
+    "henbio_wf.task_kmergenie.minKmer": "25",
+    "henbio_wf.task_kmergenie.maxKmer": "135",
+    "henbio_wf.task_kmergenie.step": "10",
+    "henbio_wf.task_kmergenie.mode": "",
+    "henbio_wf.task_kmergenie.cluster_config": "OnDemand bcs.ps.r.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_kmergenie.mount_paths": "oss://demo/ true"
+}

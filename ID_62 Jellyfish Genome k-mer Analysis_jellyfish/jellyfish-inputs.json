@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_genomescope.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.fastqRead1": "/demo/demo_data/jellyfish/sample.R1.fq.gz",
+    "henbio_wf.fastqRead2": "/demo/demo_data/jellyfish/sample.R2.fq.gz",
+    "henbio_wf.readLength": "150",
+    "henbio_wf.cluster_config": "OnDemand bcs.ps.r.xlarge img-ubuntu-vpc",
+    "henbio_wf.mount_paths": "oss://demo/ true"
+}

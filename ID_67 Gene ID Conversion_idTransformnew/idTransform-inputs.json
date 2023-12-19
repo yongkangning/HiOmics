@@ -1,0 +1,11 @@
+{
+    "henbio_wf.task_idTransform.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_idTransform.inputFile": "/demo/public/demo_data/idTransform/Homo_sapiens_gene_stable_id.txt",
+    "henbio_wf.task_idTransform.dbPath": "/demo/public/db/idTransform",
+    "henbio_wf.task_idTransform.outputFile": "result.xls",
+    "henbio_wf.task_idTransform.species": "Homo_sapiens",
+    "henbio_wf.task_idTransform.query_column": "gene_stable_id",
+    "henbio_wf.task_idTransform.need": {"gene_stable_id": false, "gene_name": true, "gene_synonym": true, "ncbi_gene_id": true, "ncbi_gene_description": true},
+    "henbio_wf.task_idTransform.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_idTransform.mount_paths": "oss://demo/henbio_web/ true"
+}

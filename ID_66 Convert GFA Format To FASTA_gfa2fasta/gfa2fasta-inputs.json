@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_gfa2fasta.inputFile": "/demo/demo_data/gfa2fasta/test1.gfa",
+    "henbio_wf.task_gfa2fasta.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_gfa2fasta.mount_paths": "oss://demo/ true"
+}

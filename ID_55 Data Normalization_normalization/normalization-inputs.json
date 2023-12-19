@@ -1,0 +1,9 @@
+{
+    "henbio_wf.task_normalization.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_normalization.input_file": "/demo/demo_data/normalization/demo1.xlsx",
+    "henbio_wf.task_normalization.judge_name01": "0",
+    "henbio_wf.task_normalization.mode_choose": "min-max",
+    "henbio_wf.task_normalization.mode_range": "0",
+    "henbio_wf.task_normalization.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_normalization.mount_paths": "oss://demo/ true"
+}

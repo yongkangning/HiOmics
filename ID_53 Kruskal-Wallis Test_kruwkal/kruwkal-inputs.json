@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_kruwkal.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_kruwkal.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_kruwkal.inputFile": "/demo/demo_data/kruwkal/input.txt",
+  "henbio_wf.task_kruwkal.outputFileName": "kruwkal_test",
+  "henbio_wf.task_kruwkal.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_kruwkal.mount_paths": "oss://demo/ false"
+}

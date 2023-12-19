@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_repairFastq.fastqRead1": "/demo/demo_data/repairFastq/fq1.fq.gz",
+    "henbio_wf.task_repairFastq.fastqRead2": "/demo/demo_data/repairFastq/fq2.fq.gz",
+    "henbio_wf.task_repairFastq.cluster_config": "OnDemand bcs.ps.r.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_repairFastq.mount_paths": "oss://demo/ true"
+}

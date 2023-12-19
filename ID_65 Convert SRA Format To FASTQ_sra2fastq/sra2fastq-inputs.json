@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_sra2fastq.inputFile": "/demo/demo_data/sra2fastq/",
+    "henbio_wf.task_sra2fastq.thread": "4",
+    "henbio_wf.task_sra2fastq.cluster_config": "OnDemand bcs.es.c.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_sra2fastq.mount_paths": "oss://demo/ true"
+}

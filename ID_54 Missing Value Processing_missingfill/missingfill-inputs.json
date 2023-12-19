@@ -1,0 +1,14 @@
+{
+    "henbio_wf.task_missingfill.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_missingfill.input_file": "/demo/demo_data/missingfill/data1.csv",
+    "henbio_wf.task_missingfill.output_file": "output.txt",
+    "henbio_wf.task_missingfill.judge_name01": "0",
+    "henbio_wf.task_missingfill.misssing": "0",
+    "henbio_wf.task_missingfill.misssing_diy": "3",
+    "henbio_wf.task_missingfill.judge_delete": "3",
+    "henbio_wf.task_missingfill.missing_diy_proportions": "3",
+    "henbio_wf.task_missingfill.judge_fill": "mean-0",
+    "henbio_wf.task_missingfill.file_shape": "csv",
+    "henbio_wf.task_missingfill.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_missingfill.mount_paths": "oss://demo/ true"
+}

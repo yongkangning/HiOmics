@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_pdf2picture.inputFile": "/demo/demo_data/pdf2picture/",
+    "henbio_wf.task_pdf2picture.outputType": "tif",
+    "henbio_wf.task_pdf2picture.dpi": "300",
+    "henbio_wf.task_pdf2picture.cluster_config": "cls-402t6queam4r52r4i6i004",
+    "henbio_wf.task_pdf2picture.mount_paths": "oss://demo/ true"
+}
