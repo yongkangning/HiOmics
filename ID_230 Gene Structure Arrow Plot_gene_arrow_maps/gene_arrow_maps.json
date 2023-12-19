@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_gene_arrow_maps.inputFile": "/demo/demo_data/gene_arrow_maps/input.csv",
+  "henbio_wf.task_gene_arrow_maps.y_title": "y",
+  "henbio_wf.task_gene_arrow_maps.plot_title": "plot",
+  "henbio_wf.task_gene_arrow_maps.outputFileName": "result",
+  "henbio_wf.task_gene_arrow_maps.ossTargetDir": "/demo/user/100001/tasks/tools-gene_arrow_maps",
+  "henbio_wf.task_gene_arrow_maps.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_gene_arrow_maps.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_gene_arrow_maps.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

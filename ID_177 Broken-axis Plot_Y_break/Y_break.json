@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_Y_break.inputFile": "/demo/demo_data/Y_break/input1.csv",
+  "henbio_wf.task_Y_break.xdata": "AAP",
+  "henbio_wf.task_Y_break.ydata": "mean",
+  "henbio_wf.task_Y_break.is_group": "Sex",
+  "henbio_wf.task_Y_break.y_min": "500",
+  "henbio_wf.task_Y_break.y_max": "1200",
+  "henbio_wf.task_Y_break.x_title": "x",
+  "henbio_wf.task_Y_break.y_title": "y",
+  "henbio_wf.task_Y_break.plot_title": "vioplot",
+  "henbio_wf.task_Y_break.outputFileName": "result",
+  "henbio_wf.task_Y_break.ossTargetDir": "/demo/user/100001/tasks/tools-Y_break",
+  "henbio_wf.task_Y_break.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Y_break.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Y_break.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

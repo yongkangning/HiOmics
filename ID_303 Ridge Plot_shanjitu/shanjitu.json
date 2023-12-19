@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_shanjitu.inputFile1": "/demo/demo_data/shanjitu/input2.csv",
+  "henbio_wf.task_shanjitu.x_title": "MeanTemperature",
+  "henbio_wf.task_shanjitu.y_title": "Month",
+  "henbio_wf.task_shanjitu.is_name": "Temperatures_in_Lincoln_NE",
+  "henbio_wf.task_shanjitu.outputFileName": "shanjitu",
+  "henbio_wf.task_shanjitu.ossTargetDir": "/demo/user/100001/tasks/tools-shanjitu",
+  "henbio_wf.task_shanjitu.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_shanjitu.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_shanjitu.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

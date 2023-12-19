@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_drawKrona.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_drawKrona.inputFile": "/demo/demo_data/drawKrona/sample1.txt",
+    "henbio_wf.task_drawKrona.outputFile": "all_krona.html",
+    "henbio_wf.task_drawKrona.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_drawKrona.mount_paths": "oss://demo/ true"
+}

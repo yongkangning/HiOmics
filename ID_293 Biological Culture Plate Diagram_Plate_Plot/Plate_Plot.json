@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_Plate_Plot.inputFile": "/demo/demo_data/Plate_Plot/input.csv",
+  "henbio_wf.task_Plate_Plot.is_title": "Custom_Title",
+  "henbio_wf.task_Plate_Plot.colour": "colour1",
+  "henbio_wf.task_Plate_Plot.is_size": "96",
+  "henbio_wf.task_Plate_Plot.is_type": "round",
+  "henbio_wf.task_Plate_Plot.ossTargetDir": "/demo/user/100001/tasks/tools-Plate_Plot",
+  "henbio_wf.task_Plate_Plot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Plate_Plot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Plate_Plot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_DGXT.inputFile1": "/demo/demo_data/DGXT/input1.csv",
+  "henbio_wf.task_DGXT.inputFile2": "/demo/demo_data/DGXT/input2.csv",
+  "henbio_wf.task_DGXT.outputFileName": "result",
+  "henbio_wf.task_DGXT.ossTargetDir": "/demo/user/100001/tasks/tools-DGXT",
+  "henbio_wf.task_DGXT.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_DGXT.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_DGXT.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_lsfse.inputFile1": "/demo/demo_data/tools-lsfse/otu.csv",
+  "henbio_wf.task_lsfse.inputFile2": "/demo/demo_data/tools-lsfse/group.csv",
+  "henbio_wf.task_lsfse.inputFile3": "/demo/demo_data/tools-lsfse/tax.csv",
+  "henbio_wf.task_lsfse.is_use_taxa_num": "200",
+  "henbio_wf.task_lsfse.is_use_feature_num": "50",
+  "henbio_wf.task_lsfse.outputFileName": "lsfse",
+  "henbio_wf.task_lsfse.ossTargetDir": "/demo/user/100001/tasks/tools-lsfse",
+  "henbio_wf.task_lsfse.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_lsfse.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_lsfse.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

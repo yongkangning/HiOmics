@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_heatmap_interesting_gene.inputFile1": "/demo/demo_data/Complex_heatmap_interesting_gene/input.txt",
+  "henbio_wf.task_heatmap_interesting_gene.annotation": "yes",
+  "henbio_wf.task_heatmap_interesting_gene.inputFile2": "/demo/demo_data/Complex_heatmap_interesting_gene/clinical.txt",
+  "henbio_wf.task_heatmap_interesting_gene.inputdata": "yes",
+  "henbio_wf.task_heatmap_interesting_gene.inputFile3": "/demo/demo_data/Complex_heatmap_interesting_gene/interet_gene.txt",
+  "henbio_wf.task_heatmap_interesting_gene.legend_title": "matrix",
+  "henbio_wf.task_heatmap_interesting_gene.is_height": "15",
+  "henbio_wf.task_heatmap_interesting_gene.is_withd": "30",
+  "henbio_wf.task_heatmap_interesting_gene.outputFileName": "heatmap",
+  "henbio_wf.task_heatmap_interesting_gene.ossTargetDir": "/demo/user/100001/tasks/tools-heatmap_interesting_gene",
+  "henbio_wf.task_heatmap_interesting_gene.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_heatmap_interesting_gene.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_heatmap_interesting_gene.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_HZTXT.inputFile1": "/demo/public/demo_data/HZTXT/inputt1.csv",
+  "henbio_wf.task_HZTXT.is_col": "'#CD6899'",  
+  "henbio_wf.task_HZTXT.outputFileName": "result",
+  "henbio_wf.task_HZTXT.ossTargetDir": "/demo/user/100001/tasks/tools-HZTXT",
+  "henbio_wf.task_HZTXT.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_HZTXT.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_HZTXT.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

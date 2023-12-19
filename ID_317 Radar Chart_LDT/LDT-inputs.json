@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_LDT.appBinDir": "demo/public/apps/tools",
+  "henbio_wf.task_LDT.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_LDT.inputFile": "/demo/public/demo_data/LDT/input1.csv",
+  "henbio_wf.task_LDT.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_LDT.mount_paths": "oss://demo/ false"  
+}

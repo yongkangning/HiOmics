@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_area_chart.inputFile": "/demo/demo_data/area_chart/input.xls",
+  "henbio_wf.task_area_chart.is_alpha": "0.5",
+  "henbio_wf.task_area_chart.x_title": "Control",
+  "henbio_wf.task_area_chart.y_title": "Patient",
+  "henbio_wf.task_area_chart.plot_title": "plot",
+  "henbio_wf.task_area_chart.legend_title": "group",
+  "henbio_wf.task_area_chart.outputFileName": "result",
+  "henbio_wf.task_area_chart.ossTargetDir": "/demo/user/100001/tasks/tools-area_chart",
+  "henbio_wf.task_area_chart.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_area_chart.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_area_chart.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

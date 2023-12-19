@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_sequence_logo.inputFile": "/demo/demo_data/sequence_logo/input.fasta",
+  "henbio_wf.task_sequence_logo.is_col": "auto",
+  "henbio_wf.task_sequence_logo.is_method": "bits",
+  "henbio_wf.task_sequence_logo.outputFileName": "result",
+  "henbio_wf.task_sequence_logo.ossTargetDir": "/demo/user/100001/tasks/tools-sequence_logo",
+  "henbio_wf.task_sequence_logo.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_sequence_logo.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_sequence_logo.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

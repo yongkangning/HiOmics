@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_cliHeatmap.inputFile1": "/demo/demo_data/cliHeatmap/input.txt",
+  "henbio_wf.task_cliHeatmap.is_scale": "none",
+  "henbio_wf.task_cliHeatmap.annotation": "no",
+  "henbio_wf.task_cliHeatmap.inputFile2": "/demo/demo_data/cliHeatmap/clinical.txt",
+  "henbio_wf.task_cliHeatmap.inputdata": "no",
+  "henbio_wf.task_cliHeatmap.inputFile3": "/henbio/demo/demo_data/cliHeatmap/interestinggene.txt",
+  "henbio_wf.task_cliHeatmap.outputFileName": "heatmap",
+  "henbio_wf.task_cliHeatmap.ossTargetDir": "/demo/user/100001/tasks/tools-cliHeatmap",
+  "henbio_wf.task_cliHeatmap.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_cliHeatmap.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_cliHeatmap.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

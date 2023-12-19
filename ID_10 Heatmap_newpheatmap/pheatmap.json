@@ -1,0 +1,25 @@
+{
+  "henbio_wf.task_pheatmap.inputFile1": "/demo/demo_data/new_pheatmap/input1.txt",
+  "henbio_wf.task_pheatmap.inputFile2": "/demo/demo_data/new_pheatmap/input2.txt",
+  "henbio_wf.task_pheatmap.inputdata": "yes",
+  "henbio_wf.task_pheatmap.inputFile3": "/demo/demo_data/new_pheatmap/input3.txt",
+  "henbio_wf.task_pheatmap.color1": "skyblue",
+  "henbio_wf.task_pheatmap.color2": "red",
+  "henbio_wf.task_pheatmap.is_cluster_cols": "T",
+  "henbio_wf.task_pheatmap.is_cluster_rows": "T",
+  "henbio_wf.task_pheatmap.is_show_colnames": "T",
+  "henbio_wf.task_pheatmap.is_show_rownames": "T",
+  "henbio_wf.task_pheatmap.is_scale": "row",
+  "henbio_wf.task_pheatmap.cellwidthSize": "13",
+  "henbio_wf.task_pheatmap.cellheightSize": "13",
+  "henbio_wf.task_pheatmap.col_angle": "45",
+  "henbio_wf.task_pheatmap.is_main": "heatmap",
+  "henbio_wf.task_pheatmap.is_legend": "F",
+  "henbio_wf.task_pheatmap.is_display_numbers": "F",
+  "henbio_wf.task_pheatmap.outputFileName": "result",
+  "henbio_wf.task_pheatmap.ossTargetDir": "/demo/user/100001/tasks/tools-pheatmap",
+  "henbio_wf.task_pheatmap.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_pheatmap.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_pheatmap.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 
