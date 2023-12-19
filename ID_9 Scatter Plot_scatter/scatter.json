@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_scatter.inputFile": "/demo/demo_data/scatter/inputFile.txt",
+  "henbio_wf.task_scatter.x_lab": "1",
+  "henbio_wf.task_scatter.y_lab": "2",
+  "henbio_wf.task_scatter.is_alpha": "0.5",
+  "henbio_wf.task_scatter.is_line": "yes",
+  "henbio_wf.task_scatter.is_method": "lm",
+  "henbio_wf.task_scatter.is_se": "TRUE",
+  "henbio_wf.task_scatter.line_R": "spearman",
+  "henbio_wf.task_scatter.outputFileName": "result",
+  "henbio_wf.task_scatter.outPutFileType": "svg",
+  "henbio_wf.task_scatter.ossTargetDir": "/demo/user/100001/tasks/tools-scatter",
+  "henbio_wf.task_scatter.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_scatter.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_scatter.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 
