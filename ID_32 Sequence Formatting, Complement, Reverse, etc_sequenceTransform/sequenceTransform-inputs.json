@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_sequenceTransform.appBinDir": "/demo/apps/tools",
+  "henbio_wf.task_sequenceTransform.inputFile": "/demo/demo_data/sequenceTransform/gene.fa",
+  "henbio_wf.task_sequenceTransform.outputFile": "result.csv",
+  "henbio_wf.task_sequenceTransform.transType": "4",
+  "henbio_wf.task_sequenceTransform.seqLength": "80",
+  "henbio_wf.task_sequenceTransform.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_sequenceTransform.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,15 @@
+{
+  "henbio_wf.task_Regression.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Regression.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Regression.inputFile": "/demo/public/demo_data/Regression/Linear_R.txt",
+  "henbio_wf.task_Regression.point_s": "13",
+  "henbio_wf.task_Regression.x_title": "x",
+  "henbio_wf.task_Regression.y_title": "y",
+  "henbio_wf.task_Regression.plot_title": "Linear_Regression_Plot",
+  "henbio_wf.task_Regression.is_method": "lm",
+  "henbio_wf.task_Regression.is_se": "TRUE",
+  "henbio_wf.task_Regression.outputFileName": "result",
+  "henbio_wf.task_Regression.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_Regression.mount_paths": "oss://demo/ false"
+}
+ 

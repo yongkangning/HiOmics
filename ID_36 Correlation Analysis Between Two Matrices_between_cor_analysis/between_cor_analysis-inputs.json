@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_between_cor_analysis.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_between_cor_analysis.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_between_cor_analysis.inputFile1": "/demo/demo_data/between_cor_analysis/input1.txt",
+  "henbio_wf.task_between_cor_analysis.inputFile2": "/demo/demo_data/between_cor_analysis/input2.txt",
+  "henbio_wf.task_between_cor_analysis.inputFile3": "/demo/demo_data/between_cor_analysis/input3.txt",
+  "henbio_wf.task_between_cor_analysis.cor_method": "pearson",
+  "henbio_wf.task_between_cor_analysis.in_pstar": "yes",
+  "henbio_wf.task_between_cor_analysis.x_title": "cells",
+  "henbio_wf.task_between_cor_analysis.y_title": "gene",
+  "henbio_wf.task_between_cor_analysis.plot_title": "correlation",
+  "henbio_wf.task_between_cor_analysis.legend_title": "Correlation",
+  "henbio_wf.task_between_cor_analysis.outputFileName": "result",
+  "henbio_wf.task_between_cor_analysis.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_between_cor_analysis.mount_paths": "oss://demo/ false"
+}
+ 

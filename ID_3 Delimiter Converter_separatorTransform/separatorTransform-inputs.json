@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_separatorTransform.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_separatorTransform.inputFile": "/demo/demo_data/separatorTransform/cfg_siteinfo.csv",
+  "henbio_wf.task_separatorTransform.outputFile": "out.txt",
+  "henbio_wf.task_separatorTransform.oldSeparator": "comma",
+  "henbio_wf.task_separatorTransform.newSeparator": "tab",
+  "henbio_wf.task_separatorTransform.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_separatorTransform.mount_paths": "oss://demo/ true"
+}

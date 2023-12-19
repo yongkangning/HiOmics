@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_4kafangjianyan.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_4kafangjianyan.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_4kafangjianyan.inputFile": "/demo/demo_data/4kafangjianyan/chisq_test.txt",
+  "henbio_wf.task_4kafangjianyan.outputFileName": "result",
+  "henbio_wf.task_4kafangjianyan.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_4kafangjianyan.mount_paths": "oss://demo/ false"
+}

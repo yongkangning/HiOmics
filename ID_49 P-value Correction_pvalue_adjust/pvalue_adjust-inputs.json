@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_pvalue_adjust.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_pvalue_adjust.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_pvalue_adjust.inputFile": "/demo/demo_data/pvalue_adjust/input.txt",
+  "henbio_wf.task_pvalue_adjust.method": "BH",
+  "henbio_wf.task_pvalue_adjust.outputFileName": "FDR",
+  "henbio_wf.task_pvalue_adjust.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_pvalue_adjust.mount_paths": "oss://demo/ false"
+}

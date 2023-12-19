@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_removeN.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_removeN.inputFile": "/demo/demo_data/removeN/gene.fq",
+    "henbio_wf.task_removeN.fileFormat": "fastq",
+    "henbio_wf.task_removeN.n_percentage": "9",
+    "henbio_wf.task_removeN.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_removeN.mount_paths": "oss://demo/ true"
+}

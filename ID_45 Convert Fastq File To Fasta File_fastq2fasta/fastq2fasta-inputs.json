@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_fastq2fasta.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_fastq2fasta.inputFile": "/demo/demo_data/fastq2fasta/gene.fq",
+    "henbio_wf.task_fastq2fasta.outputFile": "result.fa",
+    "henbio_wf.task_fastq2fasta.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_fastq2fasta.mount_paths": "oss://demo/ true"
+}

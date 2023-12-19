@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_splitFile.appBinDir": "/demo/apps/tools",
+    "henbio_wf.task_splitFile.inputFile": "/demo/demo_data/splitFile/demo.fa",
+    "henbio_wf.task_splitFile.dataFormat": "fasta",
+    "henbio_wf.task_splitFile.batchSize": "2000",
+    "henbio_wf.task_splitFile.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_splitFile.mount_paths": "oss://demo/ true"
+}

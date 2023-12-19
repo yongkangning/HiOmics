@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_removeDuplicate.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_removeDuplicate.inputFile": "/demo/demo_data/removeDuplicate/gene.fa",
+    "henbio_wf.task_removeDuplicate.outputFile": "result.fa",
+    "henbio_wf.task_removeDuplicate.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_removeDuplicate.mount_paths": "oss://demo/ true"
+}

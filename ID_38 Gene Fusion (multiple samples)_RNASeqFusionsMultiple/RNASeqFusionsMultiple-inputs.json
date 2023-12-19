@@ -1,0 +1,8 @@
+{
+  "henbio_wf.metaFile": "/demo/demo_data/RNASeqFusions/meta.txt",
+  "henbio_wf.ref_dir": "/demo/public/db/reference",
+  "henbio_wf.arriba_db_dir": "/demo/db/arriba/database",
+  "henbio_wf.species": "Homo_sapiens",
+  "henbio_wf.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+  "henbio_wf.mount_paths": "oss://demo/ true"
+}

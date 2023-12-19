@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_sequenceLength.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_sequenceLength.inputFile": "/demo/demo_data/gene.fa",
+  "henbio_wf.task_sequenceLength.outputFile": "result.txt",
+  "henbio_wf.task_sequenceLength.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_sequenceLength.mount_paths": "oss://demo/ false"
+}

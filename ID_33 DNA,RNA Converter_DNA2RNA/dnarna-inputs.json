@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_dnarna.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_dnarna.inputFile": "/demo/demo_data/dnarna/dna.fa",
+  "henbio_wf.task_dnarna.outputFile": "result.csv",
+  "henbio_wf.task_dnarna.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_dnarna.mount_paths": "oss://demo/ true"
+}

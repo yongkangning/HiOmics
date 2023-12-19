@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_PCA.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_PCA.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_PCA.inputFile": "/demo/demo_data/PCA/inputFile.tsv",
+  "henbio_wf.task_PCA.inputFile2": "/demo/demo_data/PCA/group.txt",
+  "henbio_wf.task_PCA.is_scale": "TRUE",
+  "henbio_wf.task_PCA.Title": "pca",
+  "henbio_wf.task_PCA.outputFile": "result",
+  "henbio_wf.task_PCA.outPutFileType": "svg",
+  "henbio_wf.task_PCA.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_PCA.mount_paths": "oss://demo/ false"
+}

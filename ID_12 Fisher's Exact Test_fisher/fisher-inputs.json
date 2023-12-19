@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_fisher.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_fisher.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_fisher.inputFile": "/demo/demo_data/fisher/fisher_test.txt",
+  "henbio_wf.task_fisher.outputFile": "result",
+  "henbio_wf.task_fisher.outPutFileType": "txt",
+  "henbio_wf.task_fisher.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_fisher.mount_paths": "oss://demo/ true"
+}
+ 

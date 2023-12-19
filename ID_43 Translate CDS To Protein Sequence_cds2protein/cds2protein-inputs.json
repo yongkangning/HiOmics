@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_cds2protein.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_cds2protein.inputFile": "/demo/public/demo_data/cds2protein/cds.fa",
+    "henbio_wf.task_cds2protein.outputFile": "protein.fa",
+    "henbio_wf.task_cds2protein.codeTable": "1",
+    "henbio_wf.task_cds2protein.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_cds2protein.mount_paths": "oss://demo/ true"
+}

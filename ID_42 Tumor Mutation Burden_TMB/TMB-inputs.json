@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_TMB.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_TMB.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_TMB.inputFile1": "/demo/demo_data/TMB/input1.txt",
+  "henbio_wf.task_TMB.inputFile2": "/demo/demo_data/TMB/input2.maf",
+  "henbio_wf.task_TMB.fs_size": "0.8",
+  "henbio_wf.task_TMB.oncoplot_top": "10",
+  "henbio_wf.task_TMB.is_clinicalFeatures": "yes",
+  "henbio_wf.task_TMB.draw_titv": "T",
+  "henbio_wf.task_TMB.outputFileName1": "plotmafSummary",
+  "henbio_wf.task_TMB.outputFileName2": "oncoplot",
+  "henbio_wf.task_TMB.outputFileName3": "Mutation_Burden_log",
+  "henbio_wf.task_TMB.outputFileName4": "Mutation_Burden_boxplot",
+  "henbio_wf.task_TMB.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_TMB.mount_paths": "oss://demo/ false"
+}
+ 

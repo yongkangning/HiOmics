@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_NMDS.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_NMDS.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_NMDS.inputFile1": "/demo/demo_data/NMDS/taxonomy_summary.tsv",
+  "henbio_wf.task_NMDS.inputFile2": "/demo/demo_data/NMDS/group.txt",
+  "henbio_wf.task_NMDS.bray": "bray",
+  "henbio_wf.task_NMDS.is_alpha": "0.8",
+  "henbio_wf.task_NMDS.outputFile": "result",
+  "henbio_wf.task_NMDS.outPutFileType": "svg",
+  "henbio_wf.task_NMDS.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_NMDS.mount_paths": "oss://demo/ false"
+}
+ 

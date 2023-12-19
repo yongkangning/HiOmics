@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_RNASeqFusions.fastq1": "/demo/demo_data/RNASeqFusions/sample1_R1.fastq.gz",
+  "henbio_wf.task_RNASeqFusions.fastq2": "/demo/demo_data/RNASeqFusions/sample1_R2.fastq.gz",
+  "henbio_wf.task_RNASeqFusions.species": "Homo_sapiens",
+  "henbio_wf.task_RNASeqFusions.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+  "henbio_wf.task_RNASeqFusions.mount_paths": "oss://demo/ true"
+}

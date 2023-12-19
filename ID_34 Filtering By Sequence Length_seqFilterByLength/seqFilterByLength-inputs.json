@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_seqFilterByLength.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_seqFilterByLength.inputFile": "/demo/demo_data/seqFilterByLength/gene.fa",
+  "henbio_wf.task_seqFilterByLength.outputFile": "result.csv",
+  "henbio_wf.task_seqFilterByLength.minLen": "0",
+  "henbio_wf.task_seqFilterByLength.maxLen": "-1",
+  "henbio_wf.task_seqFilterByLength.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_seqFilterByLength.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_svgTransform.appBinDir": "/demo/apps/tools",
+  "henbio_wf.task_svgTransform.inFile": "/demo/demo_data/svgTransform/plot.svg",
+  "henbio_wf.task_svgTransform.outType": "png",
+  "henbio_wf.task_svgTransform.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_svgTransform.mount_paths": "oss://demo/ true"
+}
