@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_Dumbbell_plot.inputFile": "/demo/demo_data/Dumbbell_plot/input.txt",
+  "henbio_wf.task_Dumbbell_plot.x_title": "Control",
+  "henbio_wf.task_Dumbbell_plot.y_title": "Patient",
+  "henbio_wf.task_Dumbbell_plot.outputFileName": "result",
+  "henbio_wf.task_Dumbbell_plot.ossTargetDir": "/demo/user/100001/tasks/tools-Dumbbell_plot",
+  "henbio_wf.task_Dumbbell_plot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Dumbbell_plot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Dumbbell_plot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

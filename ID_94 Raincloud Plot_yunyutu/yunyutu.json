@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_yunyutu.inputFile": "/demo/demo_data/yunyutu/inputvio.txt",
+  "henbio_wf.task_yunyutu.is_alpha": "0.7",
+  "henbio_wf.task_yunyutu.x_title": "x",
+  "henbio_wf.task_yunyutu.y_title": "y",
+  "henbio_wf.task_yunyutu.plot_title": "violindot",
+  "henbio_wf.task_yunyutu.outputFileName": "violindot",
+  "henbio_wf.task_yunyutu.ossTargetDir": "/demo/user/100001/tasks/tools-yunyutu",
+  "henbio_wf.task_yunyutu.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_yunyutu.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_yunyutu.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

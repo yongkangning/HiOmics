@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_pianchatu.inputFile": "/demo/demo_data/pianchatu/data.txt",
+  "henbio_wf.task_pianchatu.x_title": "logFC",
+  "henbio_wf.task_pianchatu.y_title": "gene",
+  "henbio_wf.task_pianchatu.group": "group",
+  "henbio_wf.task_pianchatu.outputFileName": "deviation_map",
+  "henbio_wf.task_pianchatu.ossTargetDir": "/demo/user/100001/tasks/tools-pianchatu",
+  "henbio_wf.task_pianchatu.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_pianchatu.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_pianchatu.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_yunyun.inputFile1": "/demo/demo_data/yunyun/inputFile.csv",
+  "henbio_wf.task_yunyun.is_range_scale": "0.5",
+  "henbio_wf.task_yunyun.is_alpha": "0.7",
+  "henbio_wf.task_yunyun.outputFile": "result",
+  "henbio_wf.task_yunyun.ossTargetDir": "/demo/user/100001/tasks/tools-yunyun",
+  "henbio_wf.task_yunyun.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_yunyun.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_yunyun.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

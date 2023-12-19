@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_boxplot_and_line.inputFile": "/demo/demo_data/boxplot_and_line/input.csv",
+  "henbio_wf.task_boxplot_and_line.point_size": "2",
+  "henbio_wf.task_boxplot_and_line.is_face": "yes",
+  "henbio_wf.task_boxplot_and_line.x_title": "condition",
+  "henbio_wf.task_boxplot_and_line.y_title": "value",
+  "henbio_wf.task_boxplot_and_line.outputFileName": "result",
+  "henbio_wf.task_boxplot_and_line.ossTargetDir": "/demo/user/100001/tasks/tools-boxplot_and_line",
+  "henbio_wf.task_boxplot_and_line.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_boxplot_and_line.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_boxplot_and_line.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

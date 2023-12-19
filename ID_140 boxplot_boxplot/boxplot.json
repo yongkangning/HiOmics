@@ -1,0 +1,15 @@
+{
+  "henbio_wf.task_boxplot.inputFile1": "/demo/demo_data/boxplot/input1.txt",
+  "henbio_wf.task_boxplot.groupfile": "yes",
+  "henbio_wf.task_boxplot.inputFile2": "/henbio/henbio_web/public/demo_data/boxplot/input2.txt",
+  "henbio_wf.task_boxplot.is_method": "t.test",
+  "henbio_wf.task_boxplot.p_sig": "signif",
+  "henbio_wf.task_boxplot.x_title": "group",
+  "henbio_wf.task_boxplot.y_title": "value",
+  "henbio_wf.task_boxplot.outputFileName": "result",
+  "henbio_wf.task_boxplot.ossTargetDir": "/demo/user/100001/tasks/tools-boxplot",
+  "henbio_wf.task_boxplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_boxplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_boxplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

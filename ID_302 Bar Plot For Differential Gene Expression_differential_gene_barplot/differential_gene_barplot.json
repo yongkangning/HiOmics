@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_differential_gene_barplot.inputFile": "/demo/demo_data/differential_gene_barplot/input.csv",
+  "henbio_wf.task_differential_gene_barplot.up_col": "firebrick2",
+  "henbio_wf.task_differential_gene_barplot.down_col": "steelblue",
+  "henbio_wf.task_differential_gene_barplot.up_title": "Upregulated",
+  "henbio_wf.task_differential_gene_barplot.down_title": "Downregulated",
+  "henbio_wf.task_differential_gene_barplot.outputFileName": "result",
+  "henbio_wf.task_differential_gene_barplot.ossTargetDir": "/demo/user/100001/tasks/tools-differential_gene_barplot",
+  "henbio_wf.task_differential_gene_barplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_differential_gene_barplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_differential_gene_barplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

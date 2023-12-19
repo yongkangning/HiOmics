@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_jiuxiangxiantu.inputFile1": "/demo/demo_data/jiuxiangxiantu/input1_mRNA.csv",
+  "henbio_wf.task_jiuxiangxiantu.inputFile2": "/demo/demo_data/jiuxiangxiantu/input2_m6A.csv",
+  "henbio_wf.task_jiuxiangxiantu.ncol_log2FC_RNA": "2",
+  "henbio_wf.task_jiuxiangxiantu.ncol_log2FC_Ribo": "2",
+  "henbio_wf.task_jiuxiangxiantu.FC_RNA": "2",
+  "henbio_wf.task_jiuxiangxiantu.FC_Ribo": "1.2",
+  "henbio_wf.task_jiuxiangxiantu.x_title": "log2FC_RNA",
+  "henbio_wf.task_jiuxiangxiantu.y_title": "log2FC_Protein",
+  "henbio_wf.task_jiuxiangxiantu.outputFileName": "result",
+  "henbio_wf.task_jiuxiangxiantu.ossTargetDir": "/demo/user/100001/tasks/tools-jiuxiangxiantu",
+  "henbio_wf.task_jiuxiangxiantu.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_jiuxiangxiantu.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_jiuxiangxiantu.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

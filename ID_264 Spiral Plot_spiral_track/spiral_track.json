@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_spiral_track.inputFile": "/demo/demo_data/spiral_track/input0.csv",
+  "henbio_wf.task_spiral_track.spiral_start": "180",
+  "henbio_wf.task_spiral_track.fill_col": "2",
+  "henbio_wf.task_spiral_track.track_height": "0.6",
+  "henbio_wf.task_spiral_track.is_date": "yes",
+  "henbio_wf.task_spiral_track.ossTargetDir": "/demo/user/100001/tasks/tools-vioplot",
+  "henbio_wf.task_spiral_track.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_spiral_track.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_spiral_track.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+ }

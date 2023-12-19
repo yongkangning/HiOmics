@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_beeswarm_barplot.inputFile": "/demo/demo_data/beeswarm_barplot/input.csv",
+  "henbio_wf.task_beeswarm_barplot.is_cex": "2.5",
+  "henbio_wf.task_beeswarm_barplot.is_size": "6",
+  "henbio_wf.task_beeswarm_barplot.is_alpha": "0.4",
+  "henbio_wf.task_beeswarm_barplot.y_title": "value",
+  "henbio_wf.task_beeswarm_barplot.outputFileName": "result",
+  "henbio_wf.task_beeswarm_barplot.ossTargetDir": "/demo/user/100001/tasks/tools-beeswarm_barplot",
+  "henbio_wf.task_beeswarm_barplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_beeswarm_barplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_beeswarm_barplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

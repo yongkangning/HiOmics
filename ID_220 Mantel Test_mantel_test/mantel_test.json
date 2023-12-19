@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_mantel_test.inputFile1": "/demo/demo_data/mantel_test/input1.csv",
+  "henbio_wf.task_mantel_test.inputFile2": "/demo/demo_data/mantel_test/input2.csv",
+  "henbio_wf.task_mantel_test.inputFile3": "/demo/demo_data/mantel_test/input3.txt",
+  "henbio_wf.task_mantel_test.cor_method": "pearson",
+  "henbio_wf.task_mantel_test.is_mark": "no",
+  "henbio_wf.task_mantel_test.outputFileName": "bubble_plot_facet",
+  "henbio_wf.task_mantel_test.ossTargetDir": "/demo/user/100001/tasks/tools-vioplot",
+  "henbio_wf.task_mantel_test.appBinDir": "/home/yongkangning/workflow/henbio-app/bin",
+  "henbio_wf.task_mantel_test.RLibPath": "/home/yongkangning/workflow/R/library",
+  "henbio_wf.task_mantel_test.cromwellDir": "/home/yongkangning/apps/cromwell/cromwell-executions/henbio_wf"
+}
+ 

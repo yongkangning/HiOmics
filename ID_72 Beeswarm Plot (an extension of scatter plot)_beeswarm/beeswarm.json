@@ -1,0 +1,18 @@
+{
+  "henbio_wf.task_beeswarm.inputFile": "/demo/demo_data/beeswarm/input.txt",
+  "henbio_wf.task_beeswarm.point_cex": "1.5",
+  "henbio_wf.task_beeswarm.point_size": "1",
+  "henbio_wf.task_beeswarm.is_priority": "ascending",
+  "henbio_wf.task_beeswarm.x_title": "group",
+  "henbio_wf.task_beeswarm.y_title": "value",
+  "henbio_wf.task_beeswarm.plot_title": "beeswarm_plot",
+  "henbio_wf.task_beeswarm.is_flip": "no",
+  "henbio_wf.task_beeswarm.plot_with": "no",
+  "henbio_wf.task_beeswarm.is_width": "0.3",
+  "henbio_wf.task_beeswarm.outputFileName": "result",
+  "henbio_wf.task_beeswarm.ossTargetDir": "/demo/user/100001/tasks/tools-beeswarm",
+  "henbio_wf.task_beeswarm.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_beeswarm.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_beeswarm.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

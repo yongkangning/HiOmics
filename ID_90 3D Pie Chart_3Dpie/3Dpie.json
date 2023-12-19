@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_3Dpie.inputFile": "/demo/demo_data/3Dpie/input.txt",
+  "henbio_wf.task_3Dpie.is_legend": "yes",
+  "henbio_wf.task_3Dpie.is_explode": "0.05",
+  "henbio_wf.task_3Dpie.is_height": "0.05",
+  "henbio_wf.task_3Dpie.is_radius": "0.5",
+  "henbio_wf.task_3Dpie.label_ces": "0.4",
+  "henbio_wf.task_3Dpie.outputFileName": "result",
+  "henbio_wf.task_3Dpie.ossTargetDir": "/demo/user/100001/tasks/tools-3Dpie",
+  "henbio_wf.task_3Dpie.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_3Dpie.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_3Dpie.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

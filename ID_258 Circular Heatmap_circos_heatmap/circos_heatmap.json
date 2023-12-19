@@ -1,0 +1,15 @@
+{
+  "henbio_wf.task_circos_heatmap.inputFile1": "/demo/demo_data/circos_heatmap/input.txt",
+  "henbio_wf.task_circos_heatmap.is_scale": "yes",
+  "henbio_wf.task_circos_heatmap.is_group": "yes",
+  "henbio_wf.task_circos_heatmap.inputFile2": "/henbio/henbio_web/public/demo_data/circos_heatmap/group.txt",
+  "henbio_wf.task_circos_heatmap.track_height": "0.28",
+  "henbio_wf.task_circos_heatmap.rownames_cex": "0.7",
+  "henbio_wf.task_circos_heatmap.is_cluster": "T",
+  "henbio_wf.task_circos_heatmap.outputFileName": "result",
+  "henbio_wf.task_circos_heatmap.ossTargetDir": "/demo/user/100001/tasks/tools-vioplot",
+  "henbio_wf.task_circos_heatmap.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_circos_heatmap.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_circos_heatmap.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

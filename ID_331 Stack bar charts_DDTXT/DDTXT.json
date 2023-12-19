@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_DDTXT.inputFile": "/demo/demo_data/DDTXT/inputs.csv",
+  "henbio_wf.task_DDTXT.outputFileName": "result",
+  "henbio_wf.task_DDTXT.ossTargetDir": "/demo/user/100001/tasks/tools-DDTXT",
+  "henbio_wf.task_DDTXT.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_DDTXT.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_DDTXT.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

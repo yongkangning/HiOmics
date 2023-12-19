@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_flower.inputFile": "/demo/demo_data/flower/input.txt",
+  "henbio_wf.task_flower.group_cex": "1",
+  "henbio_wf.task_flower.core_name": "core",
+  "henbio_wf.task_flower.is_start": "90",
+  "henbio_wf.task_flower.r_size": "0.8",
+  "henbio_wf.task_flower.cir_color": "white",
+  "henbio_wf.task_flower.outputFileName": "result",
+  "henbio_wf.task_flower.ossTargetDir": "/demo/user/100001/tasks/tools-flower",
+  "henbio_wf.task_flower.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_flower.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_flower.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

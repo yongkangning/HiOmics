@@ -1,0 +1,15 @@
+{
+  "henbio_wf.task_bangbangtangtu.inputFile": "/demo/demo_data/bangbangtangtu/input.txt",
+  "henbio_wf.task_bangbangtangtu.x_lab": "logFC",
+  "henbio_wf.task_bangbangtangtu.y_lab": "Description",
+  "henbio_wf.task_bangbangtangtu.have_group": "yes",
+  "henbio_wf.task_bangbangtangtu.group": "Category",
+  "henbio_wf.task_bangbangtangtu.have_size": "yes",
+  "henbio_wf.task_bangbangtangtu.is_size": "Count",
+  "henbio_wf.task_bangbangtangtu.outputFileName": "bubble_plot_facet",
+  "henbio_wf.task_bangbangtangtu.ossTargetDir": "/demo/user/100001/tasks/tools-bangbangtangtu",
+  "henbio_wf.task_bangbangtangtu.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_bangbangtangtu.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_bangbangtangtu.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

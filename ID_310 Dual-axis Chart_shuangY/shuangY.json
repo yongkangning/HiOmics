@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_shuangY.inputFile1": "/demo/demo_data/shuangY/input1.csv",
+  "henbio_wf.task_shuangY.inputFile2": "/demo/demo_data/shuangY/input2.csv",
+  "henbio_wf.task_shuangY.x_labs": "Treat",
+  "henbio_wf.task_shuangY.y_labs": "Aboveground_biomass",
+  "henbio_wf.task_shuangY.is_name": "Belowground_biomass",
+  "henbio_wf.task_shuangY.outputFileName": "result",
+  "henbio_wf.task_shuangY.ossTargetDir": "/demo/user/100001/tasks/tools-shuangY",
+  "henbio_wf.task_shuangY.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_shuangY.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_shuangY.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

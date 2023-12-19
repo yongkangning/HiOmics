@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_Bland_Altman_plot.inputFile": "/demo/demo_data/Bland_Altman_plot/input.csv",
+  "henbio_wf.task_Bland_Altman_plot.point_col": "orange",
+  "henbio_wf.task_Bland_Altman_plot.is_type": "histogram",
+  "henbio_wf.task_Bland_Altman_plot.fill_col": "orange",
+  "henbio_wf.task_Bland_Altman_plot.outputFileName1": "output1",
+  "henbio_wf.task_Bland_Altman_plot.outputFileName2": "output2",
+  "henbio_wf.task_Bland_Altman_plot.ossTargetDir": "/demo/user/100001/tasks/tools-Bland_Altman_plot",
+  "henbio_wf.task_Bland_Altman_plot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_Bland_Altman_plot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_Bland_Altman_plot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

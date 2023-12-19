@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_pie.inputFile": "/demo/demo_data/pie/input.txt",
+  "henbio_wf.task_pie.lab_pos": "in",
+  "henbio_wf.task_pie.lab_font": "4",
+  "henbio_wf.task_pie.legend_pos": "right",
+  "henbio_wf.task_pie.plot_title": "pie",
+  "henbio_wf.task_pie.plot_title_size": "15",
+  "henbio_wf.task_pie.outputFileName": "result",
+  "henbio_wf.task_pie.ossTargetDir": "/demo/user/100001/tasks/tools-pie",
+  "henbio_wf.task_pie.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_pie.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_pie.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 

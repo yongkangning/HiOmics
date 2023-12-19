@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_xiangxingtu_boxplot.inputFile": "/demo/demo_data/xiangxingtu_boxplot/inputFile.txt",
+  "henbio_wf.task_xiangxingtu_boxplot.is_alpha": "0.3",
+  "henbio_wf.task_xiangxingtu_boxplot.Palette": "npg",
+  "henbio_wf.task_xiangxingtu_boxplot.x_title": "x",
+  "henbio_wf.task_xiangxingtu_boxplot.y_title": "y",
+  "henbio_wf.task_xiangxingtu_boxplot.plot_title": "vioplot",
+  "henbio_wf.task_xiangxingtu_boxplot.is_method": "t.test",
+  "henbio_wf.task_xiangxingtu_boxplot.p_sig": "signif",
+  "henbio_wf.task_xiangxingtu_boxplot.is_legend": "top",
+  "henbio_wf.task_xiangxingtu_boxplot.outputFileName": "vioplot",
+  "henbio_wf.task_xiangxingtu_boxplot.ossTargetDir": "/demo/user/100001/tasks/tools-xiangxingtu_boxplot",
+  "henbio_wf.task_xiangxingtu_boxplot.appBinDir": "/home/henbio/workflow/apps/bin",
+  "henbio_wf.task_xiangxingtu_boxplot.RLibPath": "/home/henbio/workflow/R/library",
+  "henbio_wf.task_xiangxingtu_boxplot.cromwellDir": "/home/henbio/workflow/cromwell/cromwell-executions/henbio_wf"
+}
+ 
