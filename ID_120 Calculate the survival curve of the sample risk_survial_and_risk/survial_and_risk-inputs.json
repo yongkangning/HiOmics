@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_survial_and_risk.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_survial_and_risk.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_survial_and_risk.inputFile": "/demo/demo_data/survial_and_risk/risk1.txt",
+  "henbio_wf.task_survial_and_risk.is_width": "6.5",
+  "henbio_wf.task_survial_and_risk.outputFileName": "result",
+  "henbio_wf.task_survial_and_risk.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_survial_and_risk.mount_paths": "oss://demo/ false"
+}
+ 

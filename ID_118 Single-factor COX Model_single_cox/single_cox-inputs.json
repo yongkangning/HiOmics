@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_single_cox.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_single_cox.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_single_cox.inputFile": "/demo/demo_data/single-cox/input_uniSigExp.txt",
+  "henbio_wf.task_single_cox.P_fileter": "0.01",
+  "henbio_wf.task_single_cox.outputFileName": "result",
+  "henbio_wf.task_single_cox.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_single_cox.mount_paths": "oss://demo/ false"
+}
+ 

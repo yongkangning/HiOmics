@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_goujianROC.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_goujianROC.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_goujianROC.inputFile1": "/demo/demo_data/goujianROC/risk1.txt",
+  "henbio_wf.task_goujianROC.inputFile2": "/demo/demo_data/goujianROC/clinical.txt",
+  "henbio_wf.task_goujianROC.inputFile3": "/demo/demo_data/goujianROC/times.txt",
+  "henbio_wf.task_goujianROC.predict_Time": "1",
+  "henbio_wf.task_goujianROC.outputFileName": "result",
+  "henbio_wf.task_goujianROC.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_goujianROC.mount_paths": "oss://demo/ false"
+}
+ 

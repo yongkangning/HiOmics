@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_CheckGene.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_CheckGene.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_CheckGene.inputFile": "/demo/demo_data/CheckGene/input.txt",
+  "henbio_wf.task_CheckGene.outputFileName": "result",
+  "henbio_wf.task_CheckGene.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_CheckGene.mount_paths": "oss://demo/ false"
+}
+ 

@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_starQuantify.metadata_file": "/demo/CleanData/metadata.txt",
+    "henbio_wf.task_starQuantify.species": "Homo_sapiens",
+    "henbio_wf.task_starQuantify.species_type": "animal",
+    "henbio_wf.task_starQuantify.sample_numbers": 6,
+    "henbio_wf.task_starQuantify.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+    "henbio_wf.task_starQuantify.mount_paths": "oss://demo/ true"
+}

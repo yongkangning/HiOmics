@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_gongbiaodawagnluotu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_gongbiaodawagnluotu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_gongbiaodawagnluotu.inputFile": "/demo/demo_data/gongbiaodawagnluotu/input.csv",
+  "henbio_wf.task_gongbiaodawagnluotu.is_method": "spearman",
+  "henbio_wf.task_gongbiaodawagnluotu.is_cor": "0.6",
+  "henbio_wf.task_gongbiaodawagnluotu.is_pvalue": "0.001",
+  "henbio_wf.task_gongbiaodawagnluotu.is_label": "no",
+  "henbio_wf.task_gongbiaodawagnluotu.outputFileName": "result",
+  "henbio_wf.task_gongbiaodawagnluotu.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_gongbiaodawagnluotu.mount_paths": "oss://demo/ false"
+}
+ 

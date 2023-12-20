@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_duliyhoufxi.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_duliyhoufxi.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_duliyhoufxi.inputFile1": "/demo/demo_data/duliyhoufxi/risk1.txt",
+  "henbio_wf.task_duliyhoufxi.inputFile2": "/demo/demo_data/duliyhoufxi/clinical.txt",
+  "henbio_wf.task_duliyhoufxi.outputFileName": "result",
+  "henbio_wf.task_duliyhoufxi.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_duliyhoufxi.mount_paths": "oss://demo/ false"
+}
+ 

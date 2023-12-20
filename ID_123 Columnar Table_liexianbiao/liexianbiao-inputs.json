@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_liexianbiao.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_liexianbiao.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_liexianbiao.inputFile1": "/demo/demo_data/liexianbiao/risk1.txt",
+  "henbio_wf.task_liexianbiao.inputFile2": "/demo/demo_data/liexianbiao/clinical1.txt",
+  "henbio_wf.task_liexianbiao.outputFileName": "result",
+  "henbio_wf.task_liexianbiao.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_liexianbiao.mount_paths": "oss://demo/ false"
+}
+ 

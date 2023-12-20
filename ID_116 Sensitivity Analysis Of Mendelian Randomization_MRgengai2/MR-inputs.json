@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_MR.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_MR.inputFile1": "/demo/public/demo_data/MRgengai2/input1.txt",
+  "henbio_wf.task_MR.inputFile2": "/demo/public/demo_data/MRgengai2/input2.txt",
+  "henbio_wf.task_MR.outputFileName": "result",
+  "henbio_wf.task_MR.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_MR.mount_paths": "oss://demo/ false"
+ }

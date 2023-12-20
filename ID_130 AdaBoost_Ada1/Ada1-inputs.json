@@ -1,0 +1,18 @@
+{
+    "henbio_wf.task_Ada1.appBinDir": "/demo/apps/tools/LiangSW/clf_Ada/",
+    "henbio_wf.task_Ada1.mode_choose": "train",
+    "henbio_wf.task_Ada1.Y_lb_TF": "T",
+    "henbio_wf.task_Ada1.input_model": "NAN",
+    "henbio_wf.task_Ada1.input_file1": "/demo/demo_data/Ada1/train1.csv",
+    "henbio_wf.task_Ada1.input_file2": "/demo/demo_data/Ada1/train2.csv",
+    "henbio_wf.task_Ada1.rate": "0.2",
+    "henbio_wf.task_Ada1.shuffle_TF": "T",
+    "henbio_wf.task_Ada1.cv_TF": "T",
+    "henbio_wf.task_Ada1.cv_times": "5",
+    "henbio_wf.task_Ada1.cv_scoring": "None",
+    "henbio_wf.task_Ada1.Ada_diy_TF": "0",
+    "henbio_wf.task_Ada1.Ada_n": "0",
+    "henbio_wf.task_Ada1.Ada_lr": "0",
+    "henbio_wf.task_Ada1.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_Ada1.mount_paths": "oss://demo/ false"
+}

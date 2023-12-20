@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_Kmean_Cluster.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Kmean_Cluster.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Kmean_Cluster.inputFile": "/demo/demo_data/Kmean_Cluster/Expression.csv",
+  "henbio_wf.task_Kmean_Cluster.dist_method": "euclidean",
+  "henbio_wf.task_Kmean_Cluster.cluster_method": "ward.D2",
+  "henbio_wf.task_Kmean_Cluster.outputFileName": "result",
+  "henbio_wf.task_Kmean_Cluster.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_Kmean_Cluster.mount_paths": "oss://demo/ false"
+}
+ 

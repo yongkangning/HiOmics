@@ -1,0 +1,23 @@
+{
+    "henbio_wf.task_ANN2.appBinDir": "/demo/public/apps/tools/LiangSW/clf_ANN/",
+    "henbio_wf.task_ANN2.mode_choose": "train",
+    "henbio_wf.task_ANN2.Y_lb_TF": "T",
+    "henbio_wf.task_ANN2.input_model": "NAN",
+    "henbio_wf.task_ANN2.input_file1": "/demo/demo_data/ANN2/train1.csv",
+    "henbio_wf.task_ANN2.input_file2": "/demo/demo_data/ANN2/train2.csv",
+    "henbio_wf.task_ANN2.rate": "0.2",
+    "henbio_wf.task_ANN2.shuffle_TF": "T",
+    "henbio_wf.task_ANN2.cv_TF": "T",
+    "henbio_wf.task_ANN2.cv_times": "5",
+    "henbio_wf.task_ANN2.cv_scoring": "None",
+    "henbio_wf.task_ANN2.ANN_diy_TF": "0",
+    "henbio_wf.task_ANN2.ANN_activation": "0",
+    "henbio_wf.task_ANN2.ANN_solver": "0",
+    "henbio_wf.task_ANN2.ANN_alpha": "0",
+    "henbio_wf.task_ANN2.ANN_max_iter": "0",
+    "henbio_wf.task_ANN2.ANN_hidden_layer_sizes": "0",
+    "henbio_wf.task_ANN2.ANN_learning_rate": "0",
+    "henbio_wf.task_ANN2.ANN_learning_rate_init": "0",
+    "henbio_wf.task_ANN2.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_ANN2.mount_paths": "oss://demo/ false"
+}

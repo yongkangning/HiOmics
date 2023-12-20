@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_Cluster_docker.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Cluster_docker.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Cluster_docker.inputFile": "/demo/demo_data/Cluster_docker/Expression.csv",
+  "henbio_wf.task_Cluster_docker.dist_method": "euclidean",
+  "henbio_wf.task_Cluster_docker.cluster_method": "ward.D2",
+  "henbio_wf.task_Cluster_docker.cluster_type": "rectangle",
+  "henbio_wf.task_Cluster_docker.showlabels": "T",
+  "henbio_wf.task_Cluster_docker.outputFileName": "result",
+  "henbio_wf.task_Cluster_docker.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_Cluster_docker.mount_paths": "oss://demo/ false"
+}
+ 

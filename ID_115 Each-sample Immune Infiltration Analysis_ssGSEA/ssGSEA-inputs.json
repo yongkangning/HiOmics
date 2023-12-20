@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_ssGSEA.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_ssGSEA.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_ssGSEA.inputFile1": "/demo/demo_data/ssGSEA/input1.txt",
+  "henbio_wf.task_ssGSEA.inputFile2": "/demo/demo_data/ssGSEA/input2.txt",
+  "henbio_wf.task_ssGSEA.inputFile3": "/demo/demo_data/ssGSEA/input3.txt",
+  "henbio_wf.task_ssGSEA.facet_ncol": "7",
+  "henbio_wf.task_ssGSEA.pvlaue_size": "4",
+  "henbio_wf.task_ssGSEA.facet_size": "5",
+  "henbio_wf.task_ssGSEA.outputFileName1": "pheatmap_result",
+  "henbio_wf.task_ssGSEA.outputFileName2": "cell_enrichscore_result",
+  "henbio_wf.task_ssGSEA.outputFileName3": "cell_enrichscore_pvalue_result",
+  "henbio_wf.task_ssGSEA.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_ssGSEA.mount_paths": "oss://demo/ false"
+}
+ 

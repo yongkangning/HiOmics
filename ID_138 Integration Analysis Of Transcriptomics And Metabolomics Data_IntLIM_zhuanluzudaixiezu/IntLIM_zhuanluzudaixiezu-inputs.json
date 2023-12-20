@@ -1,0 +1,15 @@
+ {
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.inputFile2": "/demo/demo_data/IntLIM_zhuanluzudaixiezu_he/inputfile/analyteType1.csv",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.inputFile3": "/demo/demo_data/IntLIM_zhuanluzudaixiezu_he/inputfile/analyteType2.csv",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.inputFile6": "/demo/demo_data/IntLIM_zhuanluzudaixiezu_he/inputfile/pData.csv",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.in_colname": "PBO_vs_Leukemia",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.category": "discrete_variable",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.plot": "yes",   
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.outcomeAnalyteOf_Interest": "5-oxoproline",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.independentAnalyteOf_Interest": "ZRSR2",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.outputFileName": "IntLIM",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_IntLIM_zhuanluzudaixiezu.mount_paths": "oss://demo/ false"
+}

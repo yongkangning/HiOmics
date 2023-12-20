@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_tumor_microenvironment.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_tumor_microenvironment.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_tumor_microenvironment.inputFile1": "/demo/demo_data/tumor_microenvironment/input1.txt",
+  "henbio_wf.task_tumor_microenvironment.inputFile2": "/demo/demo_data/tumor_microenvironment/input2.txt",
+  "henbio_wf.task_tumor_microenvironment.is_method": "quantiseq",
+  "henbio_wf.task_tumor_microenvironment.outputFileName": "result",
+  "henbio_wf.task_tumor_microenvironment.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_tumor_microenvironment.mount_paths": "oss://demo/ false"
+}
+ 

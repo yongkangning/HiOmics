@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_WGCNA.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_WGCNA.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_WGCNA.inputFile1": "/demo/demo_data/WGCNA/GSE154290_RNA.FPKM1.txt",
+  "henbio_wf.task_WGCNA.inputFile2": "/demo/demo_data/WGCNA/Trait_data.csv",
+  "henbio_wf.task_WGCNA.which_type": "unsigned",
+  "henbio_wf.task_WGCNA.min_modulesize": "20",
+  "henbio_wf.task_WGCNA.is_TOMcutoff": "0.05",
+  "henbio_wf.task_WGCNA.interest_Trait": "1",
+  "henbio_wf.task_WGCNA.outputFileName1": "result",
+  "henbio_wf.task_WGCNA.outputFileName2": "Cytoscape",
+  "henbio_wf.task_WGCNA.outputFileName3": "hubgene",
+  "henbio_wf.task_WGCNA.cluster_config": "OnDemand bcs.ps.r.large img-ubuntu-vpc",
+  "henbio_wf.task_WGCNA.mount_paths": "oss://demo/ false"
+}
+ 

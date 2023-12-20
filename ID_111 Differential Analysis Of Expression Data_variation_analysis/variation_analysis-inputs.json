@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_variation_analysis.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_variation_analysis.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_variation_analysis.inputFile": "/demo/demo_data/variation_analysis/gene_count_matrix.csv",
+  "henbio_wf.task_variation_analysis.num_tumor": "3",
+  "henbio_wf.task_variation_analysis.num_normal": "3",
+  "henbio_wf.task_variation_analysis.outputFileName": "result",
+  "henbio_wf.task_variation_analysis.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_variation_analysis.mount_paths": "oss://demo/ false"
+}
+ 

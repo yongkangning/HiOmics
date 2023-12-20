@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_cellrangerCount.fastqDir": "/demo/demo_data/cellrangerCount/pbmc_1k_v3",
+    "henbio_wf.task_cellrangerCount.species": "Homo_sapiens",
+    "henbio_wf.task_cellrangerCount.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+    "henbio_wf.task_cellrangerCount.mount_paths": "oss://demo/ true"
+}

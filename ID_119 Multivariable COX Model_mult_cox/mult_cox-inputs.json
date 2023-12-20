@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_mult_cox.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_mult_cox.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_mult_cox.inputFile": "/demo/public/demo_data/mult_cox/input_uniSigExp.txt",
+  "henbio_wf.task_mult_cox.outputFileName": "result",
+  "henbio_wf.task_mult_cox.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_mult_cox.mount_paths": "oss://demo/ false"
+}
+ 
