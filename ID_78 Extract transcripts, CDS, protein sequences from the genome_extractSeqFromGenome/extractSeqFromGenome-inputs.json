@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_extractSeqFromGenome.geneFile": "/demo/demo_data/extractSeqFromGenome/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa",
+    "henbio_wf.task_extractSeqFromGenome.gffFile": "/demo/demo_data/extractSeqFromGenome/Arabidopsis_thaliana.TAIR10.54.gff3",
+    "henbio_wf.task_extractSeqFromGenome.seqType": "all",
+    "henbio_wf.task_extractSeqFromGenome.cluster_config": "OnDemand bcs.ps.g.large img-ubuntu-vpc",
+    "henbio_wf.task_extractSeqFromGenome.mount_paths": "oss://demo/ true"
+}

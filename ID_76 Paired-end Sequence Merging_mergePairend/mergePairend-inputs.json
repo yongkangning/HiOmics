@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_mergePairend.read1File": "/demo/demo_data/mergePairend/sample.R1.fq.gz",
+    "henbio_wf.task_mergePairend.read2File": "/demo/demo_data/mergePairend/sample.R2.fq.gz",
+    "henbio_wf.task_mergePairend.cluster_config": "OnDemand bcs.ps.r.large img-ubuntu-vpc",
+    "henbio_wf.task_mergePairend.mount_paths": "oss://demo/ true"
+}

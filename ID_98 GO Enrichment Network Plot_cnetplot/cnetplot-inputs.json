@@ -1,0 +1,19 @@
+{
+  "henbio_wf.task_cnetplot.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_cnetplot.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_cnetplot.is_Model_Species": "no",
+  "henbio_wf.task_cnetplot.inputFile1": "/demo/demo_data/cnetplot/genedata111.txt",
+  "henbio_wf.task_cnetplot.inputFile2": "/demo/demo_data/cnetplot/gene_GO222.txt",
+  "henbio_wf.task_cnetplot.inputFile3": "/demo/demo_data/cnetplot/GO_Description3gai.txt",
+  "henbio_wf.task_cnetplot.is_logFC": "no",
+  "henbio_wf.task_cnetplot.species": "",
+  "henbio_wf.task_cnetplot.pjmethod": "BH",
+  "henbio_wf.task_cnetplot.is_ont": "",
+  "henbio_wf.task_cnetplot.is_node_label": "all",
+  "henbio_wf.task_cnetplot.is_plot": "netplot",
+  "henbio_wf.task_cnetplot.is_showCategory": "5",
+  "henbio_wf.task_cnetplot.outputFileName": "netplot",
+  "henbio_wf.task_cnetplot.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_cnetplot.mount_paths": "oss://demo/ false"
+}
+ 

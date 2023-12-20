@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_intargroup.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_intargroup.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_intargroup.inputFile": "/demo/public/demo_data/intargroup/input.txt",
+  "henbio_wf.task_intargroup.cor_method": "pearson",
+  "henbio_wf.task_intargroup.is_pvalue": "no",
+  "henbio_wf.task_intargroup.is_insig": "",
+  "henbio_wf.task_intargroup.visual_method": "circle",
+  "henbio_wf.task_intargroup.is_type": "lower",
+  "henbio_wf.task_intargroup.tl_pos": "lt",
+  "henbio_wf.task_intargroup.is_order": "original",
+  "henbio_wf.task_intargroup.outputFileName": "result",
+  "henbio_wf.task_intargroup.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_intargroup.mount_paths": "oss://demo/ false"
+}
+ 

@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_tableMerge.inputFile": "/demo/demo_data/tableMerge/table3.txt",
+    "henbio_wf.task_tableMerge.separatorType": "-t",
+    "henbio_wf.task_tableMerge.joinType": " ",
+    "henbio_wf.task_tableMerge.nullValue": " ",
+    "henbio_wf.task_tableMerge.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_tableMerge.mount_paths": "oss://demo/ true"
+}

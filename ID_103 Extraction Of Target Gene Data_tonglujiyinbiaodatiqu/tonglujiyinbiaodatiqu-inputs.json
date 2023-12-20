@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_tonglujiyinbiaodatiqu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.inputFile1": "/demo/demo_data/tonglujiyinbiaodatiqu/input1.txt",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.inputFile2": "/demo/demo_data/tonglujiyinbiaodatiqu/input2.txt",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.outputFileName": "expresssion_select",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_tonglujiyinbiaodatiqu.mount_paths": "oss://demo/ false"
+}
+ 

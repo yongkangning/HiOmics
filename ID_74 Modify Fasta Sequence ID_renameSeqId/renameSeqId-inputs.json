@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_renameSeqId.inputFile": "/demo/demo_data/renameSeqId/demo.fa",
+    "henbio_wf.task_renameSeqId.addString": "M1_",
+    "henbio_wf.task_renameSeqId.position": "begin",
+    "henbio_wf.task_renameSeqId.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_renameSeqId.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_Remove_Duplicates.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Remove_Duplicates.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Remove_Duplicates.inputFile": "/demo/demo_data/Remove_Duplicates/input.txt",
+  "henbio_wf.task_Remove_Duplicates.r_clunm": "1",
+  "henbio_wf.task_Remove_Duplicates.outputFileName": "Remove_Duplicates",
+  "henbio_wf.task_Remove_Duplicates.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_Remove_Duplicates.mount_paths": "oss://demo/ false"
+}
+ 

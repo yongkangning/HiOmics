@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_heatmap_interesting_gene.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_heatmap_interesting_gene.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_heatmap_interesting_gene.inputFile1": "/demo/demo_data/Complex_heatmap_interesting_gene/input.txt",
+  "henbio_wf.task_heatmap_interesting_gene.annotation": "yes",
+  "henbio_wf.task_heatmap_interesting_gene.inputFile2": "/demo/demo_data/Complex_heatmap_interesting_gene/clinical.txt",
+  "henbio_wf.task_heatmap_interesting_gene.inputdata": "yes",
+  "henbio_wf.task_heatmap_interesting_gene.inputFile3": "/demo/demo_data/Complex_heatmap_interesting_gene/interet_gene.txt",
+  "henbio_wf.task_heatmap_interesting_gene.legend_title": "matrix",
+  "henbio_wf.task_heatmap_interesting_gene.is_height": "15",
+  "henbio_wf.task_heatmap_interesting_gene.is_withd": "30",
+  "henbio_wf.task_heatmap_interesting_gene.outputFileName": "heatmap",
+  "henbio_wf.task_heatmap_interesting_gene.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_heatmap_interesting_gene.mount_paths": "oss://demo/ false"
+}
+ 

@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_PCoA.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_PCoA.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_PCoA.inputFile1": "/demo/demo_data/PCoA/inputFile.tsv",
+  "henbio_wf.task_PCoA.inputFile2": "/demo/demo_data/PCoA/group.txt",
+  "henbio_wf.task_PCoA.bray": "bray",
+  "henbio_wf.task_PCoA.is_legend": "topright",
+  "henbio_wf.task_PCoA.is_horiz": "F",
+  "henbio_wf.task_PCoA.outputFileName": "result",
+  "henbio_wf.task_PCoA.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_PCoA.mount_paths": "oss://demo/ false"
+  
+}

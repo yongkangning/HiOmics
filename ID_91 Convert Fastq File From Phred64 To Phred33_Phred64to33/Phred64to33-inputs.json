@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_Phred64to33.inputFile": "/demo/Phred64to33/phred64.fq",
+    "henbio_wf.task_Phred64to33.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_Phred64to33.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_gtf2gff.inPutFile": "/demo/demo_data/gtf2gff/demo.gff",
+    "henbio_wf.task_gtf2gff.transType": "gff2gtf",
+    "henbio_wf.task_gtf2gff.cluster_config": "OnDemand bcs.ps.g.large img-ubuntu-vpc",
+    "henbio_wf.task_gtf2gff.mount_paths": "oss://demo/ true"
+}

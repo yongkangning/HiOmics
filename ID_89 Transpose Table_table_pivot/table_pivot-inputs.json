@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_table_pivot.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_table_pivot.input_file": "/demo/demo_data/table_pivot/demo.xlsx",
+    "henbio_wf.task_table_pivot.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_table_pivot.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_seqSampling.read1File": "/demo/demo_data/public/sample.R1.fq.gz",
+    "henbio_wf.task_seqSampling.read2File": "/demo/demo_data/public/sample.R2.fq.gz",
+    "henbio_wf.task_seqSampling.samplingValue": "0.25",
+    "henbio_wf.task_seqSampling.cluster_config": "OnDemand bcs.es.c.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_seqSampling.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_clusterxing.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_clusterxing.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_clusterxing.inputFile": "/demo/demo_data/clusterxing/uniSigExp.txt",
+  "henbio_wf.task_clusterxing.clusterNum": "2",
+  "henbio_wf.task_clusterxing.outputFileName": "result",
+  "henbio_wf.task_clusterxing.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_clusterxing.mount_paths": "oss://demo/ false"
+}
+ 

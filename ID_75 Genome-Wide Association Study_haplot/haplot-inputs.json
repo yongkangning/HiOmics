@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_haplot.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_haplot.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_haplot.inputFile1": "/demo/demo_data/haplot/geno.txt",
+  "henbio_wf.task_haplot.inputFile2": "/demo/demo_data/haplot/input2.txt",
+  "henbio_wf.task_haplot.outputFileName": "haplotype",
+  "henbio_wf.task_haplot.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_haplot.mount_paths": "oss://demo/ false"
+}
+ 

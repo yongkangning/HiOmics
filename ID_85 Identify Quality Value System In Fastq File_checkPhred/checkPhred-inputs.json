@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_checkPhred.inputFile": "/demo/demo_data/checkPhred/phred33.fq.gz",
+    "henbio_wf.task_checkPhred.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_checkPhred.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_checkPhred.mount_paths": "oss://demo/ false"
+}

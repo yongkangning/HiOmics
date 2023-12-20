@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_lasso.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_lasso.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_lasso.inputFile1": "/demo/demo_data/lasso/inputFile1.txt",
+  "henbio_wf.task_lasso.inputFile2": "/demo/demo_data/lasso/inputFile2.txt",
+  "henbio_wf.task_lasso.family_model": "cox",
+  "henbio_wf.task_lasso.is_alpha": "1",
+  "henbio_wf.task_lasso.outputFileName1": "model_lasso",
+  "henbio_wf.task_lasso.outputFileName2": "Cross_validation_for_glmnet",
+  "henbio_wf.task_lasso.outputFileName3": "result",
+  "henbio_wf.task_lasso.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_lasso.mount_paths": "oss://demo/ false"
+}
+ 

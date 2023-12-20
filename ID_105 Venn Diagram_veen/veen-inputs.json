@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_veen.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_veen.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_veen.inputFile": "/demo/demo_data/veen/input.txt",
+  "henbio_wf.task_veen.percentage": "F",
+  "henbio_wf.task_veen.alpha": "0.5",
+  "henbio_wf.task_veen.textsize": "3.5",
+  "henbio_wf.task_veen.outputFileName": "veen",
+  "henbio_wf.task_veen.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_veen.mount_paths": "oss://demo/ false"
+}
+ 

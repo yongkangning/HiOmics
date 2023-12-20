@@ -1,0 +1,21 @@
+{
+  "henbio_wf.task_GO_barplot.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_GO_barplot.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_GO_barplot.is_Model_Species": "no",
+  "henbio_wf.task_GO_barplot.inputFile1": "/demo/demo_data/GO_barplot/genedata111.txt",
+  "henbio_wf.task_GO_barplot.inputFile2": "/demo/demo_data/GO_barplot/gene_GO222.txt",
+  "henbio_wf.task_GO_barplot.inputFile3": "/demo/demo_data/GO_barplot/GO_Description3gai.txt",
+  "henbio_wf.task_GO_barplot.species": "",
+  "henbio_wf.task_GO_barplot.pjmethod": "BH",
+  "henbio_wf.task_GO_barplot.is_ont": "",
+  "henbio_wf.task_GO_barplot.is_title": "GO_term",
+  "henbio_wf.task_GO_barplot.p_color": "p.adjust",
+  "henbio_wf.task_GO_barplot.is_showCategory": "5",
+  "henbio_wf.task_GO_barplot.is_label_format": "30",
+  "henbio_wf.task_GO_barplot.color_low": "red",
+  "henbio_wf.task_GO_barplot.color_high": "blue",
+  "henbio_wf.task_GO_barplot.outputFileName": "dotplot",
+  "henbio_wf.task_GO_barplot.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_GO_barplot.mount_paths": "oss://demo/ false"
+}
+ 

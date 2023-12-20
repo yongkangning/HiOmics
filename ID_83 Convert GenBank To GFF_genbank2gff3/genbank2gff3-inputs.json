@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_genbank2gff3.inputFile": "/demo/demo_data/genbank2gff3/AH005568.gb",
+    "henbio_wf.task_genbank2gff3.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_genbank2gff3.mount_paths": "oss://demo/ true"
+}

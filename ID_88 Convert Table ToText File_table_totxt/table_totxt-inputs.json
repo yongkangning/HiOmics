@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_table_totxt.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_table_totxt.inpath": "/demo/demo_data/table_totxt",
+    "henbio_wf.task_table_totxt.file_sep": "blank",
+    "henbio_wf.task_table_totxt.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_table_totxt.mount_paths": "oss://demo/ true"
+}

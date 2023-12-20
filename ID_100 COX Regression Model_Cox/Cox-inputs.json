@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_Cox.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Cox.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Cox.inputFile": "/demo/demo_data/Cox/uniSigExp.txt",
+  "henbio_wf.task_Cox.is_fontsize": "0.7",
+  "henbio_wf.task_Cox.outputFileName": "cox",
+  "henbio_wf.task_Cox.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_Cox.mount_paths": "oss://demo/ false"
+}
+ 

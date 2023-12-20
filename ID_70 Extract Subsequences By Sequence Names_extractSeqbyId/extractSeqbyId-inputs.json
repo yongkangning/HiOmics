@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_extractSeqbyId.inputFile": "/demo/demo_data/extractSeqbyId/demo.fa.gz",
+    "henbio_wf.task_extractSeqbyId.idFile": "/demo/demo_data/extractSeqbyId/id.txt",
+    "henbio_wf.task_extractSeqbyId.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_extractSeqbyId.mount_paths": "oss://demo/ true"
+}

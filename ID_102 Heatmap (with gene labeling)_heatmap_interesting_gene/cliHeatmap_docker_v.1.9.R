@@ -166,7 +166,7 @@ if(filetype %in% c("xls", "xlsx")){
 						  
 }
 
-#Type=read_data(filename2, has_header=T, has_rownames=1)     
+#Type=read_data(filename2, has_header=T, has_rownames=1)      
 
 sameSample=intersect(colnames(rt1),row.names(Type))
 rt2=rt1[,sameSample]
