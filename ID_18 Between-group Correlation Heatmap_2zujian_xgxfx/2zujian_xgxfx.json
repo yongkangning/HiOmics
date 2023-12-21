@@ -1,6 +1,6 @@
 {
   "henbio_wf.task_2zujian_xgxfx.inputFile": "/demo/demo_data/2zujian_xgxfx/input.txt",
-  "henbio_wf.task_2zujian_xgxfx.inputFile2": "/henbio/henbio_web/public/demo_data/2zujian_xgxfx/input2.txt",
+  "henbio_wf.task_2zujian_xgxfx.inputFile2": "/demo/demo_data/2zujian_xgxfx/input2.txt",
   "henbio_wf.task_2zujian_xgxfx.is_method": "pearson",
   "henbio_wf.task_2zujian_xgxfx.is_cluster_cols": "T",
   "henbio_wf.task_2zujian_xgxfx.is_cluster_rows": "T",
