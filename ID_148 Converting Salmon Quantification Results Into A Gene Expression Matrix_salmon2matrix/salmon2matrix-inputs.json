@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_salmon2matrix.quantFile": "/demo/demo_data/salmon2matrix/salmon.zip",
+    "henbio_wf.task_salmon2matrix.tx2geneFile": "/demo/demo_data/salmon2matrix/GRCh38.tx2gene.txt",
+    "henbio_wf.task_salmon2matrix.appDir": "/demo/public/apps/tools",
+    "henbio_wf.task_salmon2matrix.RLibPath": "/demo/public/R/library",
+    "henbio_wf.task_salmon2matrix.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_salmon2matrix.mount_paths": "oss://demo/ true"
+}

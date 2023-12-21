@@ -1,0 +1,17 @@
+{
+  "henbio_wf.task_eQTL.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_eQTL.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_eQTL.inputFile1": "/demo/demo_data/eQTL/input1_SNP.txt",
+  "henbio_wf.task_eQTL.inputFile2": "/demo/demo_data/eQTL/input2_GE.txt",
+  "henbio_wf.task_eQTL.inputFile3": "/demo/demo_data/eQTL/input3_Covariates.txt",
+  "henbio_wf.task_eQTL.usemodel": "modelLINEAR",
+  "henbio_wf.task_eQTL.input_snpspos_genepos": "yes",
+  "henbio_wf.task_eQTL.inputFile4": "/demo/demo_data/eQTL/input4_snpsloc.txt",
+  "henbio_wf.task_eQTL.inputFile5": "/demo/demo_data/eQTL/input5_geneloc.txt",  
+  "henbio_wf.task_eQTL.pvOutputThreshold": "0.01",
+  "henbio_wf.task_eQTL.tra_pvOutputThreshold": "0.01",
+  "henbio_wf.task_eQTL.cis_pvOutputThreshold": "0.02",  
+  "henbio_wf.task_eQTL.outputFileName": "result",
+  "henbio_wf.task_eQTL.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_eQTL.mount_paths": "oss://demo/ false"
+ }

@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_caoeqtl.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_caoeqtl.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_caoeqtl.inputFile1": "/demo/public/demo_data/caoeqtl/input1_SNP.txt",
+  "henbio_wf.task_caoeqtl.inputFile2": "/demo/demo_data/caoeqtl/input2_GE.txt",
+  "henbio_wf.task_caoeqtl.inputFile3": "/demo/demo_data/caoeqtl/input3_Covariates.txt",
+  "henbio_wf.task_caoeqtl.usemodel": "modelLINEAR",
+  "henbio_wf.task_caoeqtl.pvOutputThreshold": "0.01",
+  "henbio_wf.task_caoeqtl.outputFileName": "result",
+  "henbio_wf.task_caoeqtl.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_caoeqtl.mount_paths": "oss://demo/ false"
+ }

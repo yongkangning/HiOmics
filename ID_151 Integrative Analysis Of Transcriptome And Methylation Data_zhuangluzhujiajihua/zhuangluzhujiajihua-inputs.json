@@ -1,0 +1,15 @@
+ {
+  "henbio_wf.task_zhuangluzhujiajihua.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_zhuangluzhujiajihua.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_zhuangluzhujiajihua.inputFile2": "/demo/demo_data/zhuangluzhujiajihua/inputfile/analyteType1.csv",
+  "henbio_wf.task_zhuangluzhujiajihua.inputFile3": "/demo/demo_data/zhuangluzhujiajihua/inputfile/analyteType2.csv",
+  "henbio_wf.task_zhuangluzhujiajihua.inputFile6": "/demo/demo_data/zhuangluzhujiajihua/inputfile/pData.csv",
+  "henbio_wf.task_zhuangluzhujiajihua.in_colname": "PBO_vs_Leukemia" ,
+  "henbio_wf.task_zhuangluzhujiajihua.category": "discrete_variable",
+  "henbio_wf.task_zhuangluzhujiajihua.plot": "yes",  
+  "henbio_wf.task_zhuangluzhujiajihua.outcomeAnalyteOf_Interest": "cg18478105",
+  "henbio_wf.task_zhuangluzhujiajihua.independentAnalyteOf_Interest": "ZRSR2",
+  "henbio_wf.task_zhuangluzhujiajihua.outputFileName": "IntLIM",
+  "henbio_wf.task_zhuangluzhujiajihua.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_zhuangluzhujiajihua.mount_paths": "oss://demo/ true"
+}

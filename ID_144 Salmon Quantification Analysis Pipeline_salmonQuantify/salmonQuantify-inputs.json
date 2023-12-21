@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_salmonQuantify.metadata_file": "/demo/test/Rattus_norvegicus/metadata.txt",
+    "henbio_wf.task_salmonQuantify.species": "Rattus_norvegicus",
+    "henbio_wf.task_salmonQuantify.sample_numbers": 9,
+    "henbio_wf.task_salmonQuantify.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+    "henbio_wf.task_salmonQuantify.mount_paths": "oss://demo/henbio_web/ true"
+}

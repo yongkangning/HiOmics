@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_chromosome_line.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_chromosome_line.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_chromosome_line.inputFile1": "/demo/demo_data/chromosome_line/input1_liriodendron_karyotype.csv",
+  "henbio_wf.task_chromosome_line.inputFile2": "/demo/demo_data/chromosome_line/input2_Fst_between_CE_and_CW.csv",
+  "henbio_wf.task_chromosome_line.inputFile3": "/demo/demo_data/chromosome_line/input3.0_Pi_for_CE.csv",
+  "henbio_wf.task_chromosome_line.labeltype": "line",
+  "henbio_wf.task_chromosome_line.outputFileName": "chromosome_line",
+  "henbio_wf.task_chromosome_line.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_chromosome_line.mount_paths": "oss://demo/ false"
+}

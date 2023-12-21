@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_jiyingzudaixiewu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_jiyingzudaixiewu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_jiyingzudaixiewu.inputFile1": "/demo/demo_data/jiyingzudaixiewu/input1_SNP.txt",
+  "henbio_wf.task_jiyingzudaixiewu.inputFile2": "/demo/demo_data/jiyingzudaixiewu/input2_GE.txt",
+  "henbio_wf.task_jiyingzudaixiewu.inputFile3": "/demo/demo_data/jiyingzudaixiewu/input3_Covariates.txt",
+  "henbio_wf.task_jiyingzudaixiewu.usemodel": "modelLINEAR",
+  "henbio_wf.task_jiyingzudaixiewu.pvOutputThreshold": "0.01",
+  "henbio_wf.task_jiyingzudaixiewu.outputFileName": "result",
+  "henbio_wf.task_jiyingzudaixiewu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_jiyingzudaixiewu.mount_paths": "oss://demo/ false"
+ }

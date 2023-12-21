@@ -1,0 +1,15 @@
+ {
+  "henbio_wf.task_danbaizhudaixiezhu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_danbaizhudaixiezhu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_danbaizhudaixiezhu.inputFile2": "/demo/demo_data/danbaizhudaixiezhu/inputfile/analyteType1.csv",
+  "henbio_wf.task_danbaizhudaixiezhu.inputFile3": "/demo/demo_data/danbaizhudaixiezhu/inputfile/analyteType2.csv",
+  "henbio_wf.task_danbaizhudaixiezhu.inputFile6": "/demo/demo_data/danbaizhudaixiezhu/inputfile/pData.csv",
+  "henbio_wf.task_danbaizhudaixiezhu.in_colname": "PBO_vs_Leukemia",
+  "henbio_wf.task_danbaizhudaixiezhu.category": "discrete_variable",
+  "henbio_wf.task_danbaizhudaixiezhu.plot": "yes",   
+  "henbio_wf.task_danbaizhudaixiezhu.outcomeAnalyteOf_Interest": "5-oxoproline",
+  "henbio_wf.task_danbaizhudaixiezhu.independentAnalyteOf_Interest": "Periaxin",
+  "henbio_wf.task_danbaizhudaixiezhu.outputFileName": "IntLIM",
+  "henbio_wf.task_danbaizhudaixiezhu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_danbaizhudaixiezhu.mount_paths": "oss://demo/ false"
+}

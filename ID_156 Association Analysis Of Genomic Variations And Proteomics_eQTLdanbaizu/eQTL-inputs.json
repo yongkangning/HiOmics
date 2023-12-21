@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_eQTL.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_eQTL.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_eQTL.inputFile1": "/demo/demo_data/eQTLdanbaizhu/input1_SNP.txt",
+  "henbio_wf.task_eQTL.inputFile2": "/demo/demo_data/eQTLdanbaizhu/input2_GE.txt",
+  "henbio_wf.task_eQTL.inputFile3": "/demo/demo_data/eQTLdanbaizhu/input3_Covariates.txt",
+  "henbio_wf.task_eQTL.usemodel": "modelLINEAR",
+  "henbio_wf.task_eQTL.pvOutputThreshold": "0.01",
+  "henbio_wf.task_eQTL.outputFileName": "result",
+  "henbio_wf.task_eQTL.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_eQTL.mount_paths": "oss://demo/ false"
+}
+
+

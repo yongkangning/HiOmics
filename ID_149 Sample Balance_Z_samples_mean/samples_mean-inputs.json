@@ -1,0 +1,10 @@
+{
+    "henbio_wf.task_samples_mean.appBinDir": "/demo/apps/tools/LiangSW",
+    "henbio_wf.task_samples_mean.input_data": "/demo/apps/tools/LiangSW/demo_data/samples_mean/demo.txt",
+    "henbio_wf.task_samples_mean.mode_choose": "up",
+    "henbio_wf.task_samples_mean.mode_choose_up": "up_SMOTE",
+    "henbio_wf.task_samples_mean.mode_choose_down": "0",
+    "henbio_wf.task_samples_mean.mode_choose_conbine": "0",
+    "henbio_wf.task_samples_mean.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_samples_mean.mount_paths": "oss://demo/ true"
+}

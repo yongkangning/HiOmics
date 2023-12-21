@@ -1,0 +1,21 @@
+{
+    "henbio_wf.task_SVC1.appBinDir": "/demo/apps/tools/LiangSW/clf_SVC/",
+    "henbio_wf.task_SVC1.mode_choose": "train",
+    "henbio_wf.task_SVC1.Y_lb_TF": "T",
+    "henbio_wf.task_SVC1.input_model": "NAN",
+    "henbio_wf.task_SVC1.input_file1": "/demo/demo_data/SVC1/train1.csv",
+    "henbio_wf.task_SVC1.input_file2": "/demo/demo_data/SVC1/train2.csv",
+    "henbio_wf.task_SVC1.rate": "0.2",
+    "henbio_wf.task_SVC1.shuffle_TF": "T",
+    "henbio_wf.task_SVC1.cv_TF": "T",
+    "henbio_wf.task_SVC1.cv_times": "5",
+    "henbio_wf.task_SVC1.cv_scoring": "None",
+    "henbio_wf.task_SVC1.svc_diy_TF": "0",
+    "henbio_wf.task_SVC1.svc_c": "0",
+    "henbio_wf.task_SVC1.svc_kernel": "0",
+    "henbio_wf.task_SVC1.svc_tol": "0",
+    "henbio_wf.task_SVC1.svc_max_iter": "0",
+    "henbio_wf.task_SVC1.svc_dfs": "0",
+    "henbio_wf.task_SVC1.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_SVC1.mount_paths": "oss://demo/ false"
+}
