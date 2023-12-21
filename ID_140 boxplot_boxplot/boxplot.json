@@ -1,7 +1,7 @@
 {
   "henbio_wf.task_boxplot.inputFile1": "/demo/demo_data/boxplot/input1.txt",
   "henbio_wf.task_boxplot.groupfile": "yes",
-  "henbio_wf.task_boxplot.inputFile2": "/henbio/henbio_web/public/demo_data/boxplot/input2.txt",
+  "henbio_wf.task_boxplot.inputFile2": "/demo/demo_data/boxplot/input2.txt",
   "henbio_wf.task_boxplot.is_method": "t.test",
   "henbio_wf.task_boxplot.p_sig": "signif",
   "henbio_wf.task_boxplot.x_title": "group",
