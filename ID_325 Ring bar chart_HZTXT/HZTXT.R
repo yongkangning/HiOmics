@@ -90,8 +90,6 @@ if(filetype %in% c("xls", "xlsx")){
 
 
 
-
-
 #head(data)
 ##   id individual value
 ## 1  1   Mister 1    97
@@ -100,7 +98,6 @@ if(filetype %in% c("xls", "xlsx")){
 ## 4  4   Mister 4    86
 ## 5  5   Mister 5    84
 ## 6  6   Mister 6    96
-
 
 
 

@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_FZTXT.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_FZTXT.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_FZTXT.inputFile": "/demo/demo_data/FZTXT/inputs99.csv",
+  "henbio_wf.task_FZTXT.outputFileName": "result",
+  "henbio_wf.task_FZTXT.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_FZTXT.mount_paths": "oss://demo/ false"    
+}

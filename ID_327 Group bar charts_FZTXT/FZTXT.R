@@ -18,7 +18,7 @@ if (is.na(outputFileName)) {
 library(ggplot2)
 library(tidyverse)
 filename = inputFile
-
+ 
   file_suffix <- strsplit(filename, "\\.")[[1]]
   filetype <- file_suffix[length(file_suffix)]
   
@@ -295,16 +295,16 @@ p1 <- ggplot(data, aes(x=as.factor(id), y=value, fill=group)) +       # Note tha
     plot.margin = unit(rep(-1,4), "cm") 
   ) +
   coord_polar() + 
-
+  
   geom_text(data=label_data, aes(x=id, y=value+8, label=individual, hjust=hjust), color="black", fontface="bold",alpha=0.6, size=2.5, angle= label_data$angle, inherit.aes = FALSE ) +
   geom_text(data=label_data, aes(x=id, y=value-10, label=value, hjust=hjust), color="black", fontface="bold",alpha=0.6, size=2.5, angle= label_data$angle, inherit.aes = FALSE ) +
   
   # Add base line information
   
   geom_segment(data=base_data, aes(x = start, y = -5, xend = end, yend = -5), colour = "black", alpha=0.8, size=0.8 , inherit.aes = FALSE )  +
-
+  
   geom_text(data=base_data, aes(x = title, y = -12, label=group), colour = "black", alpha=0.8, size=4, fontface="bold", inherit.aes = FALSE) +
-
+  
   scale_fill_brewer(palette = "Set2")
 p1
 

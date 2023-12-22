@@ -1,0 +1,22 @@
+{
+    "henbio_wf.task_perceptron.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_perceptron.mode_choose": "train",
+    "henbio_wf.task_perceptron.Y_lb_TF": "T",
+    "henbio_wf.task_perceptron.input_model": "NAN",
+    "henbio_wf.task_perceptron.input_file1": "/demo/demo_data/perceptron/train1.csv",
+    "henbio_wf.task_perceptron.input_file2": "/demo/demo_data/perceptron/train2.csv",
+    "henbio_wf.task_perceptron.rate": "0.2",
+    "henbio_wf.task_perceptron.shuffle_TF": "T",
+    "henbio_wf.task_perceptron.cv_TF": "T",
+    "henbio_wf.task_perceptron.cv_times": "5",
+    "henbio_wf.task_perceptron.cv_scoring": "None",
+    "henbio_wf.task_perceptron.perceptron_diy_TF": "0",
+    "henbio_wf.task_perceptron.perceptron_penalty": "0",
+    "henbio_wf.task_perceptron.perceptron_eta0": "0",
+    "henbio_wf.task_perceptron.perceptron_fit_intercept": "0",
+    "henbio_wf.task_perceptron.perceptron_tol": "0",
+    "henbio_wf.task_perceptron.perceptron_alpha": "0",
+    "henbio_wf.task_perceptron.perceptron_max_iter": "0",
+    "henbio_wf.task_perceptron.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_perceptron.mount_paths": "oss://demo/ false"
+}

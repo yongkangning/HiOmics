@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_MergeROC.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_MergeROC.input_file1": "/demo/public/demo_data/MergeROC/xinzangbing.csv",
+    "henbio_wf.task_MergeROC.model_folder_path":"/demo/demo_data/MergeROC/atmz",
+    "henbio_wf.task_MergeROC.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_MergeROC.mount_paths": "oss://demo/ false"
+}

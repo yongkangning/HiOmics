@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_HZTXT.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_HZTXT.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_HZTXT.inputFile1": "/demo/public/demo_data/HZTXT/inputt1.csv",
+  "henbio_wf.task_HZTXT.is_col": "'#CD6899'",  
+  "henbio_wf.task_HZTXT.outputFileName": "result",
+  "henbio_wf.task_HZTXT.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_HZTXT.mount_paths": "oss://demo/ false"  
+}

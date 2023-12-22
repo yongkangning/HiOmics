@@ -1,0 +1,23 @@
+{
+    "henbio_wf.task_MLR.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_MLR.mode_choose": "train",
+    "henbio_wf.task_MLR.Y_lb_TF": "T",
+    "henbio_wf.task_MLR.input_model": "NAN",
+    "henbio_wf.task_MLR.input_file1": "/demo/demo_data/MLR/irisaa.csv",
+    "henbio_wf.task_MLR.input_file2": "/demo/demo_data/MLR/irisbb.csv",
+    "henbio_wf.task_MLR.rate": "0.2",
+    "henbio_wf.task_MLR.shuffle_TF": "T",
+    "henbio_wf.task_MLR.cv_TF": "T",
+    "henbio_wf.task_MLR.cv_times": "5",
+    "henbio_wf.task_MLR.cv_scoring": "None",
+    "henbio_wf.task_MLR.LR_diy_TF": "0",
+    "henbio_wf.task_MLR.LR_penalty": "0",
+    "henbio_wf.task_MLR.LR_multi_class": "0",
+    "henbio_wf.task_MLR.LR_C": "0",
+    "henbio_wf.task_MLR.LR_fi": "0",
+    "henbio_wf.task_MLR.LR_tol": "0",
+    "henbio_wf.task_MLR.LR_max_iter": "0",
+    "henbio_wf.task_MLR.LR_solver": "0",
+    "henbio_wf.task_MLR.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_MLR.mount_paths": "oss://demo/ false"
+}

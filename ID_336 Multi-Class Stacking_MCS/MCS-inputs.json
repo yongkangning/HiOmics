@@ -1,0 +1,17 @@
+{
+    "henbio_wf.task_MCS.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_MCS.mode_choose": "train",
+    "henbio_wf.task_MCS.Y_lb_TF": "T",
+    "henbio_wf.task_MCS.input_model": "NAN",
+    "henbio_wf.task_MCS.input_file1": "/demo/demo_data/MCS/winequality-reda.csv",
+    "henbio_wf.task_MCS.input_file2": "/demo/demo_data/MCS/winequality-redd.csv",
+    "henbio_wf.task_MCS.rate": "0.2",
+    "henbio_wf.task_MCS.shuffle_TF": "T",
+    "henbio_wf.task_MCS.cv_TF": "T",
+    "henbio_wf.task_MCS.cv_times": "5",
+    "henbio_wf.task_MCS.cv_scoring": "None",
+    "henbio_wf.task_MCS.MCS_diy_TF": "0",
+    "henbio_wf.task_MCS.MCS_meta_model": "0",
+    "henbio_wf.task_MCS.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_MCS.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,18 @@
+{
+    "henbio_wf.task_BNB.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_BNB.mode_choose": "train",
+    "henbio_wf.task_BNB.Y_lb_TF": "T",
+    "henbio_wf.task_BNB.input_model": "0",
+    "henbio_wf.task_BNB.input_file1": "/demo/demo_data/BNB/1234.xlsx",
+    "henbio_wf.task_BNB.input_file2": "/demo/demo_data/BNB/123.xlsx",
+    "henbio_wf.task_BNB.rate": "0.2",
+    "henbio_wf.task_BNB.shuffle_TF": "T",
+    "henbio_wf.task_BNB.cv_TF": "T",
+    "henbio_wf.task_BNB.cv_times": "5",
+    "henbio_wf.task_BNB.cv_scoring": "None",
+    "henbio_wf.task_BNB.BNB_diy_TF": "0",
+    "henbio_wf.task_BNB.BNB_alpha": "0",
+    "henbio_wf.task_BNB.BNB_class_prior": "0",
+    "henbio_wf.task_BNB.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_BNB.mount_paths": "oss://demo/ false"
+}

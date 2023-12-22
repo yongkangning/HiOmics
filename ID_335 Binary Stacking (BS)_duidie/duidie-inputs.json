@@ -1,0 +1,18 @@
+{
+    "henbio_wf.task_duidie.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_duidie.mode_choose": "train",
+    "henbio_wf.task_duidie.Y_lb_TF": "T",
+    "henbio_wf.task_duidie.input_model": "NAN",
+    "henbio_wf.task_duidie.input_file1": "/demo/demo_data/duidie/train1.csv",
+    "henbio_wf.task_duidie.input_file2": "/demo/demo_data/duidie/train2.csv",
+    "henbio_wf.task_duidie.rate": "0.2",
+    "henbio_wf.task_duidie.shuffle_TF": "T",
+    "henbio_wf.task_duidie.cv_TF": "T",
+    "henbio_wf.task_duidie.cv_times": "5",
+    "henbio_wf.task_duidie.cv_scoring": "None",
+    "henbio_wf.task_duidie.Stacking_diy_TF": "0",
+    "henbio_wf.task_duidie.cv_timess": "0",
+    "henbio_wf.task_duidie.cv_scoringgcv_scoringg": "0",
+    "henbio_wf.task_duidie.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_duidie.mount_paths": "oss://demo/ false"
+}

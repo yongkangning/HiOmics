@@ -1,0 +1,14 @@
+{
+    "henbio_wf.task_DecisionTreeRegressor.appBinDir": "/demo/tools/LiangSW/DecisionTreeRegressor",
+    "henbio_wf.task_DecisionTreeRegressor.file": "/demo/demo_data/DecisionTreeRegressor/worker_productivity.csv",
+    "henbio_wf.task_DecisionTreeRegressor.filet": "/demo/demo_data/DecisionTreeRegressor/worker_productivity.csv",
+    "henbio_wf.task_DecisionTreeRegressor.model": "/demo/demo_data/DecisionTreeRegressor/DecisionTreeRegressor.pkl",
+    "henbio_wf.task_DecisionTreeRegressor.choose": "train",
+    "henbio_wf.task_DecisionTreeRegressor.Y_lb": "T",
+    "henbio_wf.task_DecisionTreeRegressor.rate": "0.2",
+    "henbio_wf.task_DecisionTreeRegressor.cvtime": "5",
+    "henbio_wf.task_DecisionTreeRegressor.shuffle": "T",
+    "henbio_wf.task_DecisionTreeRegressor.Zscore": "T",
+    "henbio_wf.task_DecisionTreeRegressor.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_DecisionTreeRegressor.mount_paths": "oss://demo/ false"
+}

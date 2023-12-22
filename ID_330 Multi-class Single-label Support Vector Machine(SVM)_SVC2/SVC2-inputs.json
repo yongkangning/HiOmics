@@ -1,0 +1,21 @@
+{
+    "henbio_wf.task_SVC2.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_SVC2.mode_choose": "train",
+    "henbio_wf.task_SVC2.Y_lb_TF": "T",
+    "henbio_wf.task_SVC2.input_model": "NAN",
+    "henbio_wf.task_SVC2.input_file1": "/demo/demo_data/SVC2/winequality-red.csv",
+    "henbio_wf.task_SVC2.input_file2": "/demo/demo_data/SVC2/winequality-redd.csv",
+    "henbio_wf.task_SVC2.rate": "0.2",
+    "henbio_wf.task_SVC2.shuffle_TF": "T",
+    "henbio_wf.task_SVC2.cv_TF": "T",
+    "henbio_wf.task_SVC2.cv_times": "5",
+    "henbio_wf.task_SVC2.cv_scoring": "None",
+    "henbio_wf.task_SVC2.svc_diy_TF": "0",
+    "henbio_wf.task_SVC2.svc_c": "0",
+    "henbio_wf.task_SVC2.svc_kernel": "0",
+    "henbio_wf.task_SVC2.svc_tol": "0",
+    "henbio_wf.task_SVC2.svc_max_iter": "0",
+    "henbio_wf.task_SVC2.svc_dfs": "0",
+    "henbio_wf.task_SVC2.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_SVC2.mount_paths": "oss://demo/ false"
+}

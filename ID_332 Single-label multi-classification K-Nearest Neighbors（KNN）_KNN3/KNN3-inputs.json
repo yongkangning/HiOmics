@@ -1,0 +1,20 @@
+{
+    "henbio_wf.task_KNN3.appBinDir": "/demo/apps/tools/",
+    "henbio_wf.task_KNN3.mode_choose": "train",
+    "henbio_wf.task_KNN3.Y_lb_TF": "T",
+    "henbio_wf.task_KNN3.input_model": "0",
+    "henbio_wf.task_KNN3.input_file1": "/demo/demo_data/KNN2/winequality-reda.csv",
+    "henbio_wf.task_KNN3.input_file2": "/demo/demo_data/KNN2/winequality-redd.csv",
+    "henbio_wf.task_KNN3.rate": "0.2",
+    "henbio_wf.task_KNN3.shuffle_TF": "T",
+    "henbio_wf.task_KNN3.cv_TF": "T",
+    "henbio_wf.task_KNN3.cv_times": "5",
+    "henbio_wf.task_KNN3.cv_scoring": "None",
+    "henbio_wf.task_KNN3.KNN_diy_TF": "0",
+    "henbio_wf.task_KNN3.KNN_n_neighbors": "0",
+    "henbio_wf.task_KNN3.KNN_algorithm": "0",
+    "henbio_wf.task_KNN3.KNN_metric": "0",
+    "henbio_wf.task_KNN3.KNN_leaf_size": "0",
+    "henbio_wf.task_KNN3.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_KNN3.mount_paths": "oss://demo/ false"
+}

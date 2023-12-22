@@ -1,30 +1,15 @@
-version 1.0
-
 task task_HZTXT {
-  input {
-    String inputFile1
-    String is_col
-    String outputFileName
-
-    String ossTargetDir
-
-    String appBinDir
-    String RLibPath
-    String cromwellDir
-  }
-
+  String appBinDir
+  String RLibPath
+  String inputFile1
+  String is_col
+  String outputFileName
+  String cluster_config
+  String mount_paths  
+ 
   command <<<
-    set -eo pipefail
-    # download input from oss
-    ~{appBinDir}/ossutil64 -c ~{appBinDir}/ossutilconfig  cp oss:/~{inputFile1} ./inputFile1.csv
-    # check input data
-    ~{appBinDir}/datacheck_v1.0 -i inputFile1.csv -o inputFile2.csv -c true -d true -s 1
-    # genarate the result
-    Rscript ~{appBinDir}/HZTXT.R ~{RLibPath} inputFile2.csv ~{is_col} ~{outputFileName}
-    # update result to oss
-    task_id=`echo $PWD | sed -e s"#~{cromwellDir}/##" -e s"#/execution##"`
-    ls ~{outputFileName}.svg stdout stderr | xargs -P 3 -I {}  ~{appBinDir}/ossutil64 -c ~{appBinDir}/ossutilconfig  cp -f {} oss:/~{ossTargetDir}/${task_id}/
-  >>>
+    Rscript ${appBinDir}/HZTXT.R ${RLibPath} ${inputFile1} ${is_col} ${outputFileName}
+	  >>>
 
   output {
     File outFile = "${outputFileName}.svg"
@@ -32,14 +17,15 @@ task task_HZTXT {
  
   runtime {
     docker: "registry.cn-shenzhen.aliyuncs.com/henbio-pro/henbio:rstudio-r-base-4.2.0-focal"
+    cluster: cluster_config
+    mounts: mount_paths
+    autoReleaseJob: false
     timeout: 600
   }
 }
-
 workflow henbio_wf {
   call task_HZTXT
-
-  output {
-    File outFile = task_HZTXT.outFile
+  output{
+    task_HZTXT.outFile
   }
 }
