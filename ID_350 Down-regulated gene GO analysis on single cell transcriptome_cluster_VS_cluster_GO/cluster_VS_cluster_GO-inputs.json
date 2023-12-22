@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_cluster_VS_cluster_GO.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_cluster_VS_cluster_GO.inputFile": "/demo/public/demo_data/cluster_VS_cluster_GO/Seuratproject.rds",
+  "henbio_wf.task_cluster_VS_cluster_GO.celltype1": "B",
+  "henbio_wf.task_cluster_VS_cluster_GO.celltype2": "DC",
+  "henbio_wf.task_cluster_VS_cluster_GO.species": "org.Hs.eg.db",
+  "henbio_wf.task_cluster_VS_cluster_GO.is_ont": "BP",
+  "henbio_wf.task_cluster_VS_cluster_GO.pjmethod": "BH",
+  "henbio_wf.task_cluster_VS_cluster_GO.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_cluster_VS_cluster_GO.mount_paths": "oss://demo/ false"
+}
+ 

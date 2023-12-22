@@ -1,0 +1,14 @@
+{
+    "henbio_wf.task_16s_RNAseq.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_16s_RNAseq.RLibPath": "/demo/public/R/library",
+    "henbio_wf.task_16s_RNAseq.inputFile1": "/demo/demo_data/16s_RNAseq/input1.csv",
+    "henbio_wf.task_16s_RNAseq.inputFile2": "/demo/demo_data/16s_RNAseq/Genus_relative.tsv",
+    "henbio_wf.task_16s_RNAseq.species": "Mouse",
+    "henbio_wf.task_16s_RNAseq.need_interest_Bacteria": "yes",
+    "henbio_wf.task_16s_RNAseq.inputFile3": "/demo/demo_data/16s_RNAseq/insteret.txt",
+    "henbio_wf.task_16s_RNAseq.corr_method": "pearson",
+    "henbio_wf.task_16s_RNAseq.p_adjust": "fdr",
+    "henbio_wf.task_16s_RNAseq.in_pvlaue": "padjust",
+    "henbio_wf.task_16s_RNAseq.cluster_config": "OnDemand bcs.ps.g.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_16s_RNAseq.mount_paths": "oss://demo/ false"
+}

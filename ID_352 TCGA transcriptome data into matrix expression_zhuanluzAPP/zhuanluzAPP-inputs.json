@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_zhuanluzAPP.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_zhuanluzAPP.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_zhuanluzAPP.inputFile1": "/demo/demo_data/zhuanluzAPP/inputFile.zip",
+  "henbio_wf.task_zhuanluzAPP.inputFile2": "/demo/demo_data/zhuanluzAPP/metadata.json",
+  "henbio_wf.task_zhuanluzAPP.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_zhuanluzAPP.mount_paths": "oss://demo/ false"
+}

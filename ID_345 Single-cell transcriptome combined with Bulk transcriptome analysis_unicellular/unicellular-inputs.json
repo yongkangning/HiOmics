@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_unicellular.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_unicellular.inputFile1": "/demo/demo_data/unicellular/exprMatrix.txt",
+  "henbio_wf.task_unicellular.inputFile2": "/demo/demo_data/unicellular/ref_sig_by_DEG.txt",
+  "henbio_wf.task_unicellular.need_group": "yes",
+  "henbio_wf.task_unicellular.inputFile3": "/demo/demo_data/unicellular/group.csv",
+  "henbio_wf.task_unicellular.need_surv": "yes",
+  "henbio_wf.task_unicellular.inputFile4": "/demo/demo_data/unicellular/clini.csv",
+  "henbio_wf.task_unicellular.x_label": "no",
+  "henbio_wf.task_unicellular.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_unicellular.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_singleCell.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_singleCell.inputFile": "/demo/demo_data/singleCell/inputFile",
+  "henbio_wf.task_singleCell.gene_counts": "2500",
+  "henbio_wf.task_singleCell.MT_percent": "5",
+  "henbio_wf.task_singleCell.resolution": "0.5",
+  "henbio_wf.task_singleCell.cluster_config": "OnDemand bcs.ps.r.large img-ubuntu-vpc",
+  "henbio_wf.task_singleCell.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_clusters_markers_GO.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_clusters_markers_GO.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_clusters_markers_GO.inputFile": "/demo/demo_data/clusters_markers_GO/Seuratproject.rds",
+  "henbio_wf.task_clusters_markers_GO.species": "org.Hs.eg.db",
+  "henbio_wf.task_clusters_markers_GO.log2FC": "0.25",
+  "henbio_wf.task_clusters_markers_GO.is_ont": "BP",
+  "henbio_wf.task_clusters_markers_GO.pjmethod": "BH",
+  "henbio_wf.task_clusters_markers_GO.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_clusters_markers_GO.mount_paths": "oss://demo/ false"
+}
+ 

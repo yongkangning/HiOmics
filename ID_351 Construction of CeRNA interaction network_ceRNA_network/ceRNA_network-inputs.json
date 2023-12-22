@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_ceRNA_network.gene_count_file": "/demo/public/db/ceRNA/gene_raw_count.txt",
+  "henbio_wf.task_ceRNA_network.group_file": "/demo/public/db/ceRNA/sample_group.txt",
+  "henbio_wf.task_ceRNA_network.log2FC": "2",
+  "henbio_wf.task_ceRNA_network.p_value": "0.05",
+  "henbio_wf.task_ceRNA_network.ceRNA_db": "/demo/public/db/ceRNA",
+  "henbio_wf.task_ceRNA_network.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_ceRNA_network.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_ceRNA_network.mount_paths": "oss://demo/ false"
+}

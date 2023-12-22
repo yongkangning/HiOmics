@@ -1,0 +1,7 @@
+{
+  "henbio_wf.task_scRNA_signature.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_scRNA_signature.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_scRNA_signature.inputFile": "/demo/demo_data/scRNA_signature/Seuratproject.rds",
+  "henbio_wf.task_scRNA_signature.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_scRNA_signature.mount_paths": "oss://demo/ false"
+}

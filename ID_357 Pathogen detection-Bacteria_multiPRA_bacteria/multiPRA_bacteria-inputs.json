@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_multiPRA_bacteria.fastq1": "/demo/public/workflow/multiPRA/testdata/sample1_1.fq.gz",
+    "henbio_wf.task_multiPRA_bacteria.fastq2": "/demo/public/workflow/multiPRA/testdata/sample1_2.fq.gz",
+    "henbio_wf.task_multiPRA_bacteria.cluster_config": "OnDemand bcs.ps.g.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_multiPRA_bacteria.mount_paths": "oss://demo/ false"
+}

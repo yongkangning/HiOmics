@@ -1,0 +1,16 @@
+{
+    "henbio_wf.task_ElasticNet.appBinDir": "/demo/public/apps/tools/LiangSW/ElasticNet",
+    "henbio_wf.task_ElasticNet.file": "/demo/demo_data/ElasticNet/ObesityDataSet.csv",
+    "henbio_wf.task_ElasticNet.filet": "/demo/demo_data/ElasticNet/ObesityDataSet.csv",
+    "henbio_wf.task_ElasticNet.model": "/demo/demo_data/ElasticNet/Ridge.pkl",
+    "henbio_wf.task_ElasticNet.choose": "train",
+    "henbio_wf.task_ElasticNet.Y_lb": "T",
+    "henbio_wf.task_ElasticNet.rate": "0.2",
+    "henbio_wf.task_ElasticNet.cvtime": "5",
+    "henbio_wf.task_ElasticNet.shuffle": "T",
+    "henbio_wf.task_ElasticNet.Zscore": "T",
+    "henbio_wf.task_ElasticNet.alpha": "0.1",
+    "henbio_wf.task_ElasticNet.l1_ratio": "0.1",
+    "henbio_wf.task_ElasticNet.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_ElasticNet.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,14 @@
+{
+    "henbio_wf.task_GBR.appBinDir": "/demo/public/apps/tools/LiangSW/GBR",
+    "henbio_wf.task_GBR.file": "/demo/demo_data/GBR/worker_productivityy.csv",
+    "henbio_wf.task_GBR.filet": "/demo/demo_data/GBR/worker_productivity.csv",
+    "henbio_wf.task_GBR.model": "/demo/demo_data/GBR/DecisionTreeRegressor.pkl",
+    "henbio_wf.task_GBR.choose": "train",
+    "henbio_wf.task_GBR.Y_lb": "T",
+    "henbio_wf.task_GBR.rate": "0.2",
+    "henbio_wf.task_GBR.cvtime": "5",
+    "henbio_wf.task_GBR.shuffle": "T",
+    "henbio_wf.task_GBR.Zscore": "T",
+    "henbio_wf.task_GBR.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_GBR.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_multiPRA_virus.fastq1": "/demo/multiPRA/testdata/sample1_1.fq.gz",
+    "henbio_wf.task_multiPRA_virus.fastq2": "/demo/multiPRA/testdata/sample1_2.fq.gz",
+    "henbio_wf.task_multiPRA_virus.cluster_config": "OnDemand bcs.ps.g.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_multiPRA_virus.mount_paths": "oss://demo/ false"
+}

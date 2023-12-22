@@ -1,0 +1,13 @@
+{
+    "henbio_wf.task_cnn.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_cnn.img_width": "200",
+    "henbio_wf.task_cnn.img_height": "200",
+    "henbio_wf.task_cnn.batch_size": "50",
+    "henbio_wf.task_cnn.train_data_dir": "/demo/demo_data/cnn/juan/train/",
+    "henbio_wf.task_cnn.optimizer": "adam",
+    "henbio_wf.task_cnn.epochs": "20",
+    "henbio_wf.task_cnn.test_data_dir": "/demo/demo_data/cnn/juan/test/",
+    "henbio_wf.task_cnn.predict_data_dir": "/demo/demo_data/cnn/juan/predict/",
+    "henbio_wf.task_cnn.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_cnn.mount_paths": "oss://demo/ false"
+}
