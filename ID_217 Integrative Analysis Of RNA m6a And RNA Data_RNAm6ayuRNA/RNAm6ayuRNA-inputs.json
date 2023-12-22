@@ -1,0 +1,15 @@
+ {
+  "henbio_wf.task_RNAm6ayuRNA.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_RNAm6ayuRNA.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_RNAm6ayuRNA.inputFile2": "/demo/demo_data/RNAm6ayuRNA/analyteType1.csv",
+  "henbio_wf.task_RNAm6ayuRNA.inputFile3": "/demo/demo_data/RNAm6ayuRNA/analyteType2.csv",
+  "henbio_wf.task_RNAm6ayuRNA.inputFile6": "/demo/demo_data/RNAm6ayuRNA/pData.csv",
+  "henbio_wf.task_RNAm6ayuRNA.in_colname": "PBO_vs_Leukemia" ,
+  "henbio_wf.task_RNAm6ayuRNA.category": "discrete_variable",
+  "henbio_wf.task_RNAm6ayuRNA.plot": "yes",
+  "henbio_wf.task_RNAm6ayuRNA.independentAnalyteOf_Interest": "human_m6A_10",
+  "henbio_wf.task_RNAm6ayuRNA.outcomeAnalyteOf_Interest": "ZRSR2",
+  "henbio_wf.task_RNAm6ayuRNA.outputFileName": "result",
+  "henbio_wf.task_RNAm6ayuRNA.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_RNAm6ayuRNA.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_betasezscore.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_betasezscore.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_betasezscore.BETA": "1.5",
+  "henbio_wf.task_betasezscore.SE": "1.63",
+  "henbio_wf.task_betasezscore.outputFileName": "result",
+  "henbio_wf.task_betasezscore.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_betasezscore.mount_paths": "oss://demo/ false"
+}

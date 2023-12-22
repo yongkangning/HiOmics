@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_orpzscore.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_orpzscore.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_orpzscore.OR": "4.48",
+  "henbio_wf.task_orpzscore.P": "0.03",
+  "henbio_wf.task_orpzscore.outputFileName": "result",
+  "henbio_wf.task_orpzscore.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_orpzscore.mount_paths": "oss://demo/ false"
+}

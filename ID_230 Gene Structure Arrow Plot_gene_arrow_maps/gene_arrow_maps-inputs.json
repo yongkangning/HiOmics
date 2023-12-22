@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_gene_arrow_maps.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_gene_arrow_maps.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_gene_arrow_maps.inputFile": "/demo/demo_data/gene_arrow_maps/input.csv",
+  "henbio_wf.task_gene_arrow_maps.y_title": "y",
+  "henbio_wf.task_gene_arrow_maps.plot_title": "plot",
+  "henbio_wf.task_gene_arrow_maps.outputFileName": "/demo/gene_arrow_maps/result",
+  "henbio_wf.task_gene_arrow_maps.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_gene_arrow_maps.mount_paths": "oss://demo/ false"
+ }

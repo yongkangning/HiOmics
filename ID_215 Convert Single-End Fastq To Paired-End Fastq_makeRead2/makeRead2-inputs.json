@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_makeRead2.inputFile": "/demo/demo_data/makeRead2/sample_R1.fq.gz",
+    "henbio_wf.task_makeRead2.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_makeRead2.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_makeRead2.mount_paths": "oss://demo/ false"
+}

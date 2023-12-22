@@ -1,0 +1,11 @@
+{   "henbio_wf.task_ychuanshanweixiaoying.type": "4",
+    "henbio_wf.task_ychuanshanweixiaoying.inputfileDir": "/demo/demo_data/ychuanshanweixiaoying/",
+    "henbio_wf.task_ychuanshanweixiaoying.inputFilePrefix": "geno",
+    "henbio_wf.task_ychuanshanweixiaoying.inputFile2": "/demo/demo_data/ychuanshanweixiaoying/pheno.txt",
+    "henbio_wf.task_ychuanshanweixiaoying.inputFile3": "/demo/demo_data/ychuanshanweixiaoying/epi.set1",
+    "henbio_wf.task_ychuanshanweixiaoying.epi1": "0.5",
+    "henbio_wf.task_ychuanshanweixiaoying.epi2": "0.2",
+    "henbio_wf.task_ychuanshanweixiaoying.outFile": "result",
+    "henbio_wf.task_ychuanshanweixiaoying.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_ychuanshanweixiaoying.mount_paths": "oss://demo/ false"
+}

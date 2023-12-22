@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_SampleN.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_SampleN.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_SampleN.R": "0.8",
+  "henbio_wf.task_SampleN.sig_level": "0.05",
+  "henbio_wf.task_SampleN.power": "0.5",
+  "henbio_wf.task_SampleN.outputFileName": "/demo/workflow/huwenyuu/SampleN/SampleN",
+  "henbio_wf.task_SampleN.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_SampleN.mount_paths": "oss://demo/ false"
+ }

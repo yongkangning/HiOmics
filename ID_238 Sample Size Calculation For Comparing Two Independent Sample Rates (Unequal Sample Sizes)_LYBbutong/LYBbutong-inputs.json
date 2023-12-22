@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_LYBbutong.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_LYBbutong.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_LYBbutong.H": "0.85",
+  "henbio_wf.task_LYBbutong.N1": "1600",
+  "henbio_wf.task_LYBbutong.power": "0.9",
+  "henbio_wf.task_LYBbutong.sig_level": "0.01",
+  "henbio_wf.task_LYBbutong.outputFileName": "result",
+  "henbio_wf.task_LYBbutong.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_LYBbutong.mount_paths": "oss://demo/ false"
+ }

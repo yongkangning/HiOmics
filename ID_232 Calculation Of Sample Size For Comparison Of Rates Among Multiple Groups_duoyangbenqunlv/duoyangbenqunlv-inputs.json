@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_duoyangbenqunlv.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_duoyangbenqunlv.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_duoyangbenqunlv.is_w": "0.34",
+  "henbio_wf.task_duoyangbenqunlv.nrow_df": "3",
+  "henbio_wf.task_duoyangbenqunlv.ncol_df": "2",
+  "henbio_wf.task_duoyangbenqunlv.sig_level": "0.05",
+  "henbio_wf.task_duoyangbenqunlv.Power": "0.9",
+  "henbio_wf.task_duoyangbenqunlv.outputFileName": "/demo/huwenyuu/duoyangbenqunlv/chisq.test",
+  "henbio_wf.task_duoyangbenqunlv.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_duoyangbenqunlv.mount_paths": "oss://demo/ false"
+ }

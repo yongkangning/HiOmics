@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_trans_plink.inputfileDir": "/demo/demo_data/trans_plink",
+    "henbio_wf.task_trans_plink.inputFilePrefix": "geno",
+    "henbio_wf.task_trans_plink.type": "transpose2mabebed",
+    "henbio_wf.task_trans_plink.outFile": "result",
+    "henbio_wf.task_trans_plink.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_trans_plink.mount_paths": "oss://demo/ false"
+}

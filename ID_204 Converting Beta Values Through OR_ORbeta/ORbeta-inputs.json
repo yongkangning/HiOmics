@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_ORbeta.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_ORbeta.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_ORbeta.OR": "4.48",
+  "henbio_wf.task_ORbeta.outputFileName": "result",
+  "henbio_wf.task_ORbeta.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_ORbeta.mount_paths": "oss://demo/ false"
+}

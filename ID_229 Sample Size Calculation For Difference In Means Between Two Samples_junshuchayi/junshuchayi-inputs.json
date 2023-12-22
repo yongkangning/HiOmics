@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_junshuchayi.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_junshuchayi.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_junshuchayi.D": "0.8",
+  "henbio_wf.task_junshuchayi.sig_level": "0.05",
+  "henbio_wf.task_junshuchayi.power": "0.5",
+  "henbio_wf.task_junshuchayi.outputFileName": "/demo/junshuchayi/SampleN",
+  "henbio_wf.task_junshuchayi.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_junshuchayi.mount_paths": "oss://demo/ false"
+ }

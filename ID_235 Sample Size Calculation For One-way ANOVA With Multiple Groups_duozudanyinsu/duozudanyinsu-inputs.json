@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_duozudanyinsu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_duozudanyinsu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_duozudanyinsu.F": "0.28",
+  "henbio_wf.task_duozudanyinsu.K": "4",
+  "henbio_wf.task_duozudanyinsu.power": "0.80",
+  "henbio_wf.task_duozudanyinsu.sig_level": "0.05",
+  "henbio_wf.task_duozudanyinsu.outputFileName": "/demo/huwenyuu/duozudanyinsu/SampleN",
+  "henbio_wf.task_duozudanyinsu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_duozudanyinsu.mount_paths": "oss://demo/ false"
+ }

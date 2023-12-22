@@ -1,0 +1,13 @@
+{
+  "henbio_wf.task_sankey.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_sankey.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_sankey.inputFile": "/demo/demo_data/sankey1/network1.txt",
+  "henbio_wf.task_sankey.stratum_width": "0.3",
+  "henbio_wf.task_sankey.is_alpha": "0.5",
+  "henbio_wf.task_sankey.text_size": "2",
+  "henbio_wf.task_sankey.x_size": "8",
+  "henbio_wf.task_sankey.plot_title": "sankey",
+  "henbio_wf.task_sankey.outputFileName": "result",
+  "henbio_wf.task_sankey.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_sankey.mount_paths": "oss://demo/ false"
+ }

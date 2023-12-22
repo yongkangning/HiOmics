@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_logistic.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_logistic.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_logistic.P1": "0.2",
+  "henbio_wf.task_logistic.OR": "1.8",
+  "henbio_wf.task_logistic.alpha": "0.05",
+  "henbio_wf.task_logistic.power": "0.8",
+  "henbio_wf.task_logistic.outputFileName": "resul",
+  "henbio_wf.task_logistic.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_logistic.mount_paths": "oss://demo/ false"
+ }
