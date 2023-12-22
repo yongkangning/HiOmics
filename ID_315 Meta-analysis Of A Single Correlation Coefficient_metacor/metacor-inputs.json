@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_metacor.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_metacor.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_metacor.inputFile": "/demo/demo_data/metacor/input.csv",
+  "henbio_wf.task_metacor.is_sm": "ZCOR",
+  "henbio_wf.task_metacor.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_metacor.mount_paths": "oss://demo/ false"
+ }

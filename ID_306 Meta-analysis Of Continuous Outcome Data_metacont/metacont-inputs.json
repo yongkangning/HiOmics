@@ -1,0 +1,8 @@
+ {
+  "henbio_wf.task_metacont.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_metacont.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_metacont.inputFile": "/demo/demo_data/metacont/inputs.csv",
+  "henbio_wf.task_metacont.is_sm": "SMD",
+  "henbio_wf.task_metacont.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_metacont.mount_paths": "oss://demo/ false"
+ }

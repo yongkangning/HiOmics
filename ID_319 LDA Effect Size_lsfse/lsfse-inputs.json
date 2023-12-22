@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_lsfse.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_lsfse.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_lsfse.inputFile1": "/demo/demo_data/tools-lsfse/otu.csv",
+  "henbio_wf.task_lsfse.inputFile2": "/demo/demo_data/tools-lsfse/group.csv",
+  "henbio_wf.task_lsfse.inputFile3": "/demo/demo_data/tools-lsfse/tax.csv",
+  "henbio_wf.task_lsfse.is_use_taxa_num": "200",
+  "henbio_wf.task_lsfse.is_use_feature_num": "50",
+  "henbio_wf.task_lsfse.outputFileName": "lsfse",
+  "henbio_wf.task_lsfse.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_lsfse.mount_paths": "oss://demo/ false"  
+}

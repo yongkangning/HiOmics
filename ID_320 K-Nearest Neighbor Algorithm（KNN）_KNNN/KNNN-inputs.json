@@ -1,0 +1,20 @@
+{
+    "henbio_wf.task_KNNN.appBinDir": "/demo/apps/tools/",
+    "henbio_wf.task_KNNN.mode_choose": "train",
+    "henbio_wf.task_KNNN.Y_lb_TF": "T",
+    "henbio_wf.task_KNNN.input_model": "0",
+    "henbio_wf.task_KNNN.input_file1": "/demo/demo_data/KNNN/train1.csv",
+    "henbio_wf.task_KNNN.input_file2": "/demo/demo_data/KNNN/train2.csv",
+    "henbio_wf.task_KNNN.rate": "0.2",
+    "henbio_wf.task_KNNN.shuffle_TF": "T",
+    "henbio_wf.task_KNNN.cv_TF": "T",
+    "henbio_wf.task_KNNN.cv_times": "5",
+    "henbio_wf.task_KNNN.cv_scoring": "None",
+    "henbio_wf.task_KNNN.KNN_diy_TF": "0",
+    "henbio_wf.task_KNNN.KNN_n_neighbors": "0",
+    "henbio_wf.task_KNNN.KNN_algorithm": "0",
+    "henbio_wf.task_KNNN.KNN_metric": "0",
+    "henbio_wf.task_KNNN.KNN_leaf_size": "0",
+    "henbio_wf.task_KNNN.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_KNNN.mount_paths": "oss://demo/ false"
+}

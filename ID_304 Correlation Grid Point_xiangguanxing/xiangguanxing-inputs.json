@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_xiangguanxing.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_xiangguanxing.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_xiangguanxing.inputFile1": "/demo/demo_data/xiangguanxing/input1.csv",
+  "henbio_wf.task_xiangguanxing.inputFile2": "/demo/demo_data/xiangguanxing/input2.csv",
+  "henbio_wf.task_xiangguanxing.is_method": "spearman",
+  "henbio_wf.task_xiangguanxing.outputFileName": "result",
+  "henbio_wf.task_xiangguanxing.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_xiangguanxing.mount_paths": "oss://demo/ false"
+}
+

@@ -1,0 +1,13 @@
+{
+    "henbio_wf.task_atacSeqWorkflow.sampleDescFile": "/demo/public/workflow/nf-core-atacseq-2.0/data/test/samplesheet.xlsx",
+    "henbio_wf.task_atacSeqWorkflow.sampleDir": "/demo/public/workflow/nf-core-atacseq-2.0/data/test",
+    "henbio_wf.task_atacSeqWorkflow.readLength": "75",
+    "henbio_wf.task_atacSeqWorkflow.species_genome": "GRCh38",
+    "henbio_wf.task_atacSeqWorkflow.igenomes_base": "/demo/public/db/iGenomes",
+    "henbio_wf.task_atacSeqWorkflow.aligner": "bwa",
+    "henbio_wf.task_atacSeqWorkflow.peakMode": "broad",
+    "henbio_wf.task_atacSeqWorkflow.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_atacSeqWorkflow.nextflowPipelinePath": "/demo/public/workflow",
+    "henbio_wf.task_atacSeqWorkflow.cluster_config": "OnDemand ecs.g6.8xlarge img-ubuntu-vpc",
+    "henbio_wf.task_atacSeqWorkflow.mount_paths": "oss://demo/ false"
+}

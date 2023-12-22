@@ -1,0 +1,11 @@
+{
+    "henbio_wf.task_clipSeqWorkflow.sampleDescFile": "/demo/public/workflow/nf-core-clipseq-1.0.0/data/test/metadata.csv",
+    "henbio_wf.task_clipSeqWorkflow.sampleDir": "/demo/public/workflow/nf-core-clipseq-1.0.0/data/test",
+    "henbio_wf.task_clipSeqWorkflow.species_genome": "GRCh38",
+    "henbio_wf.task_clipSeqWorkflow.igenomes_base": "/demo/public/db/iGenomes",
+    "henbio_wf.task_clipSeqWorkflow.peakcaller": "paraclu",
+    "henbio_wf.task_clipSeqWorkflow.appBinDir": "/demo/public/apps/tools",
+    "henbio_wf.task_clipSeqWorkflow.nextflowPipelinePath": "/demo/public/workflow/",
+    "henbio_wf.task_clipSeqWorkflow.cluster_config": "OnDemand ecs.g6.8xlarge img-ubuntu-vpc",
+    "henbio_wf.task_clipSeqWorkflow.mount_paths": "oss://demo/ false"
+}

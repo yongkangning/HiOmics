@@ -1,0 +1,20 @@
+{
+    "henbio_wf.task_DT.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_DT.mode_choose": "train",
+    "henbio_wf.task_DT.Y_lb_TF": "T",
+    "henbio_wf.task_DT.input_model": "NAN",
+    "henbio_wf.task_DT.input_file1": "/demo/demo_data/DT/train1.csv",
+    "henbio_wf.task_DT.input_file2": "/demo/demo_data/DT/train2.csv",
+    "henbio_wf.task_DT.rate": "0.2",
+    "henbio_wf.task_DT.shuffle_TF": "T",
+    "henbio_wf.task_DT.cv_TF": "T",
+    "henbio_wf.task_DT.cv_times": "5",
+    "henbio_wf.task_DT.cv_scoring": "None",
+    "henbio_wf.task_DT.DT_diy_TF": "0",
+    "henbio_wf.task_DT.DT_criterion": "0",
+    "henbio_wf.task_DT.DT_max_depth": "0",
+    "henbio_wf.task_DT.DT_min_samples_split": "0",
+    "henbio_wf.task_DT.DT_class_weight": "0",
+    "henbio_wf.task_DT.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_DT.mount_paths": "oss://demo/ false"
+}

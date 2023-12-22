@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_metamean.appBinDir": "/demo/apps/tools",
+  "henbio_wf.task_metamean.RLibPath": "/demo/R/library",
+  "henbio_wf.task_metamean.inputFile": "/demo/demo_data/metamean/input.csv",
+  "henbio_wf.task_metamean.is_sm": "MRAW",
+  "henbio_wf.task_metamean.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_metamean.mount_paths": "oss://demo/ false"
+ }

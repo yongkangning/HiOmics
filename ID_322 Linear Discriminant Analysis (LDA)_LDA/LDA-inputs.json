@@ -1,0 +1,21 @@
+{
+    "henbio_wf.task_LDA.appBinDir": "/demo/public/apps/tools/",
+    "henbio_wf.task_LDA.mode_choose": "train",
+    "henbio_wf.task_LDA.Y_lb_TF": "T",
+    "henbio_wf.task_LDA.input_model": "NAN",
+    "henbio_wf.task_LDA.input_file1": "/demo/demo_data/LDA/train1.csv",
+    "henbio_wf.task_LDA.input_file2": "/demo/demo_data/LDA/train2.csv",
+    "henbio_wf.task_LDA.rate": "0.2",
+    "henbio_wf.task_LDA.shuffle_TF": "T",
+    "henbio_wf.task_LDA.cv_TF": "T",
+    "henbio_wf.task_LDA.cv_times": "5",
+    "henbio_wf.task_LDA.cv_scoring": "None",
+    "henbio_wf.task_LDA.LDA_diy_TF": "0",
+    "henbio_wf.task_LDA.LDA_solver": "0",
+    "henbio_wf.task_LDA.LDA_shrinkage": "0",
+    "henbio_wf.task_LDA.LDA_tol": "0",
+    "henbio_wf.task_LDA.LDA_n_components": "0",
+    "henbio_wf.task_LDA.LDA_store_covariance": "0",
+    "henbio_wf.task_LDA.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_LDA.mount_paths": "oss://demo/ false"
+}

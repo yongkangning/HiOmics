@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_metaprop.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_metaprop.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_metaprop.inputFile": "/demo/public/demo_data/metaprop/input.csv",
+  "henbio_wf.task_metaprop.is_sm": "PRAW",
+  "henbio_wf.task_metaprop.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_metaprop.mount_paths": "oss://demo/ false"
+ }
