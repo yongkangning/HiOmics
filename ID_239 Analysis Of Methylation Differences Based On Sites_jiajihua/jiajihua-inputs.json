@@ -1,0 +1,8 @@
+{
+  "henbio_wf.task_jiajihua.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_jiajihua.inputFile1": "/demo/demo_data/jiajihua/data.txt",
+  "henbio_wf.task_jiajihua.inputFile2": "/demo/demo_data/jiajihua/group.txt",
+  "henbio_wf.task_jiajihua.labrow": "T",
+  "henbio_wf.task_jiajihua.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_jiajihua.mount_paths": "oss://demo/ false"
+}

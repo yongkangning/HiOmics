@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_dbSPNAnnotate.vcfFile": "/demo/demo_data/dbSPNAnnotate/henbio-dbSPNAnnotate-test.vcf.gz",
+    "henbio_wf.task_dbSPNAnnotate.referenceVersion": "hg19",
+    "henbio_wf.task_dbSPNAnnotate.gatk_bundle_dir": "/demo/public/db/gatk",
+    "henbio_wf.task_dbSPNAnnotate.cluster_config": "OnDemand bcs.es.c.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_dbSPNAnnotate.mount_paths": "oss://demo/ false"
+}

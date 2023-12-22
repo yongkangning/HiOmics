@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_zhikongjisuan.inputfileDir": "/demo/demo_data/zhikongjisuan",
+    "henbio_wf.task_zhikongjisuan.inputFilePrefix": "TOY_TARGET_DATA",
+    "henbio_wf.task_zhikongjisuan.is_check_sex": "F",
+    "henbio_wf.task_zhikongjisuan.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_zhikongjisuan.mount_paths": "oss://demo/ false"
+}

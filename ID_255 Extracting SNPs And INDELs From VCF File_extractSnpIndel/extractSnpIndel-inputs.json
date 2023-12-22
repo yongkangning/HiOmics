@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_extractSnpIndel.vcfFile": "/demo/demo_data/extractSnpIndel/henbio-extractSnpIndel-test.vcf.gz",
+    "henbio_wf.task_extractSnpIndel.referenceVersion": "hg19",
+    "henbio_wf.task_extractSnpIndel.gatk_bundle_dir": "/demo/public/db/gatk",
+    "henbio_wf.task_extractSnpIndel.cluster_config": "OnDemand bcs.es.c.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_extractSnpIndel.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,12 @@
+{
+    "henbio_wf.task_PRS.appDir": "/demo/public/apps/tools",
+    "henbio_wf.task_PRS.base": "/demo/demo_data/PRS/TOY_BASE_GWAS-Beta.assoc",
+    "henbio_wf.task_PRS.inputfileDir": "/demo/demo_data/PRS/",
+    "henbio_wf.task_PRS.inputFilePrefix": "TOY_TARGET_DATA",
+    "henbio_wf.task_PRS.stat": "BETA",
+    "henbio_wf.task_PRS.binary_target": "F",
+    "henbio_wf.task_PRS.pheno": "/demo/PRS/TOY_TARGET_DATA.pheno",
+    "henbio_wf.task_PRS.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_PRS.mount_paths": "oss://demo/library/ /opt/R/4.2.0/lib/R/library/ false"
+}
+

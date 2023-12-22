@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_wgsSequenceAlignmentPlus.fastqDir": "",
+    "henbio_wf.task_wgsSequenceAlignmentPlus.metaDataFile": "",
+    "henbio_wf.task_wgsSequenceAlignmentPlus.appDir": "/demo/public/apps/tools",
+    "henbio_wf.task_wgsSequenceAlignmentPlus.gatk_bundle_dir": "/demo/public/db/gatk/hg38",
+    "henbio_wf.task_wgsSequenceAlignmentPlus.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+    "henbio_wf.task_wgsSequenceAlignmentPlus.mount_paths": "oss://demo/ false"
+}

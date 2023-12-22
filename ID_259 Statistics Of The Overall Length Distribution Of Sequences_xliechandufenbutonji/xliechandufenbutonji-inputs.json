@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_xliechandufenbutonji.inputfile": "/demo/demo_data/xliechandufenbutonji/test.fa",
+    "henbio_wf.task_xliechandufenbutonji.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_xliechandufenbutonji.mount_paths": "oss://demo/ false"
+}

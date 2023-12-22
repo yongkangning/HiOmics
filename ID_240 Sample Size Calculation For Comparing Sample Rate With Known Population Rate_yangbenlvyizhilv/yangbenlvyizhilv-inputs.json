@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_yangbenlvyizhilv.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_yangbenlvyizhilv.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_yangbenlvyizhilv.H": "0.9",
+  "henbio_wf.task_yangbenlvyizhilv.sig_level": "0.05",
+  "henbio_wf.task_yangbenlvyizhilv.Power": "0.80",
+  "henbio_wf.task_yangbenlvyizhilv.outputFileName": "chisq.test",
+  "henbio_wf.task_yangbenlvyizhilv.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_yangbenlvyizhilv.mount_paths": "oss://demo/ false"
+ }

@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_extractVcfByChr.vcfFile": "/demo/demo_data/extractVcfByChr/henbio-extractVcfByChr-test.vcf.gz",
+    "henbio_wf.task_extractVcfByChr.chrName": "chr20",
+    "henbio_wf.task_extractVcfByChr.cluster_config": "OnDemand ecs.g6.large img-ubuntu-vpc",
+    "henbio_wf.task_extractVcfByChr.mount_paths": "oss://demo/ false"
+}

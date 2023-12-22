@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_xiantongxlie.inputfile1": "/demo/demo_data/xiantongxlie/test.fa",
+    "henbio_wf.task_xiantongxlie.inputfile2": "/demo/demo_data/xiantongxlie/vfdb.fa",
+    "henbio_wf.task_xiantongxlie.type": "-n -o",
+    "henbio_wf.task_xiantongxlie.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_xiantongxlie.mount_paths": "oss://demo/ false"
+}

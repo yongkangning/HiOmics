@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_xianxinghuigui.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_xianxinghuigui.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_xianxinghuigui.U": "5",
+  "henbio_wf.task_xianxinghuigui.F2": "0.0769",
+  "henbio_wf.task_xianxinghuigui.sig_level": "0.05",
+  "henbio_wf.task_xianxinghuigui.power": "0.9",
+  "henbio_wf.task_xianxinghuigui.outputFileName": "/home/yongkangning/workflow/huwenyuu/xianxinghuigui/chisq.test",
+  "henbio_wf.task_xianxinghuigui.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_xianxinghuigui.mount_paths": "oss://demo/ false"
+ }

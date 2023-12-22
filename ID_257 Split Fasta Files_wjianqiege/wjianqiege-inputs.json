@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_wjianqiege.inputfile": "/demo/demo_data/wjianqiege/test.fa",
+    "henbio_wf.task_wjianqiege.type": "type3",
+    "henbio_wf.task_wjianqiege.p": "4",
+    "henbio_wf.task_wjianqiege.s": "400",
+    "henbio_wf.task_wjianqiege.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_wjianqiege.mount_paths": "oss://demo/ false"
+}

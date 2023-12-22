@@ -1,0 +1,18 @@
+{
+    "henbio_wf.task_zhheyufenjue.inputfileDir": "/demo/demo_data/zhheyufenjue",
+    "henbio_wf.task_zhheyufenjue.inputFilePrefix": "geno1",
+    "henbio_wf.task_zhheyufenjue.data_dir": "/demo/demo_data/zhheyufenjue",
+    "henbio_wf.task_zhheyufenjue.mergelist": "/demo/demo_data/zhheyufenjue/allfiles.txt",
+    "henbio_wf.task_zhheyufenjue.type": "type2",
+    "henbio_wf.task_zhheyufenjue.thin": "0.2",
+    "henbio_wf.task_zhheyufenjue.chr": "6",
+    "henbio_wf.task_zhheyufenjue.from": "1000",
+    "henbio_wf.task_zhheyufenjue.to": "10000000000",
+    "henbio_wf.task_zhheyufenjue.mysnps": "/demo/demo_data/zhheyufenjue/mysnps.txt",
+    "henbio_wf.task_zhheyufenjue.snp": "rs1052693",
+    "henbio_wf.task_zhheyufenjue.window": "20",
+    "henbio_wf.task_zhheyufenjue.myid": "/demo/demo_data/zhheyufenjue/id.txt",
+    "henbio_wf.task_zhheyufenjue.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_zhheyufenjue.mount_paths": "oss://demo/ false"
+}
+

@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_wgsSequenceAlignment.fastqRead1": "",
+    "henbio_wf.task_wgsSequenceAlignment.fastqRead2": "",
+    "henbio_wf.task_wgsSequenceAlignment.gatk_bundle_dir": "/demo/public/db/gatk/hg38",
+    "henbio_wf.task_wgsSequenceAlignment.cluster_config": "OnDemand ecs.g6.2xlarge img-ubuntu-vpc",
+    "henbio_wf.task_wgsSequenceAlignment.mount_paths": "oss://demo/ false"
+}

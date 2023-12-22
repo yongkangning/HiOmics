@@ -1,0 +1,8 @@
+{
+    "henbio_wf.task_deepvariant.bamFile": "/demo/demo_data/deepvariant/NA12878_S1.chr20.10_10p1mb.bam",
+    "henbio_wf.task_deepvariant.modelType": "WES",
+    "henbio_wf.task_deepvariant.referenceVersion": "hg19",
+    "henbio_wf.task_deepvariant.gatk_bundle_dir": "/demo/public/db/gatk",
+    "henbio_wf.task_deepvariant.cluster_config": "OnDemand ecs.g6.4xlarge img-ubuntu-vpc",
+    "henbio_wf.task_deepvariant.mount_paths": "oss://demo/ true"
+}

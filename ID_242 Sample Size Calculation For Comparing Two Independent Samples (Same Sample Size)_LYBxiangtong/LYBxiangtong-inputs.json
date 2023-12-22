@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_LYBxiangtong.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_LYBxiangtong.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_LYBxiangtong.H": "0.85",
+  "henbio_wf.task_LYBxiangtong.power": "0.8",
+  "henbio_wf.task_LYBxiangtong.sig_level": "0.01",
+  "henbio_wf.task_LYBxiangtong.outputFileName": "/demo/LYBxiangtong/SampleN",
+  "henbio_wf.task_LYBxiangtong.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_LYBxiangtong.mount_paths": "oss://demo/ false"
+ }

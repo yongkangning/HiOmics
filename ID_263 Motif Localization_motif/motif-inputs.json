@@ -1,0 +1,5 @@
+{   "henbio_wf.task_motif.p": "AUGGACUN",
+    "henbio_wf.task_motif.inputfile": "/demo/demo_data/motif/test.fa",
+    "henbio_wf.task_motif.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_motif.mount_paths": "oss://demo/ false"
+}
