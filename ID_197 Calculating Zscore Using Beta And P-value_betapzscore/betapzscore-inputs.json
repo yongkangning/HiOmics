@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_betapzscore.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_betapzscore.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_betapzscore.BETA": "4.48",
+  "henbio_wf.task_betapzscore.P": "0.03",
+  "henbio_wf.task_betapzscore.outputFileName": "/home/yongkangning/workflow/huwenyuu/betapzscore/result",
+  "henbio_wf.task_betapzscore.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_betapzscore.mount_paths": "oss://demo/ false"
+}

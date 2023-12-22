@@ -1,0 +1,10 @@
+{
+    "henbio_wf.task_SNPychuanli.inputfileDir": "/demo/demo_data/SNPychuanli",
+    "henbio_wf.task_SNPychuanli.inputFilePrefix": "geno",
+    "henbio_wf.task_SNPychuanli.inputfile1": "/demo/demo_data/SNP1",
+    "henbio_wf.task_SNPychuanli.method": "1",
+    "henbio_wf.task_SNPychuanli.outFile": "result",
+    "henbio_wf.task_SNPychuanli.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_SNPychuanli.mount_paths": "oss://demo/henbio_web/ false"
+}
+

@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_bam2fasta.bamFile": "/demo/demo_data/bam2fasta/test.bam",
+    "henbio_wf.task_bam2fasta.cluster_config": "OnDemand bcs.ps.g.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_bam2fasta.mount_paths": "oss://demo/ true"
+}

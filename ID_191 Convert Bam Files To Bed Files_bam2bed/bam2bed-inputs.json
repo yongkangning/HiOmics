@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_bam2bed.bamFile": "/demo/demo_data/bam2bed/test.bam",
+    "henbio_wf.task_bam2bed.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_bam2bed.mount_paths": "oss://demo/ true"
+}

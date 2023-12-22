@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_extractSeqName.fastaFile": "",
+    "henbio_wf.task_extractSeqName.appDir": "/demo/apps/tools",
+    "henbio_wf.task_extractSeqName.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_extractSeqName.mount_paths": "oss://demo/ true"
+}

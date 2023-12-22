@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_orpse.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_orpse.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_orpse.OR": "4.48",
+  "henbio_wf.task_orpse.P": "0.03",
+  "henbio_wf.task_orpse.outputFileName": "result",
+  "henbio_wf.task_orpse.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_orpse.mount_paths": "oss://demo/ false"
+}

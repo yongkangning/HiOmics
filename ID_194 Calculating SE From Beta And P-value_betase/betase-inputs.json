@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_betase.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_betase.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_betase.BETA": "1.5",
+  "henbio_wf.task_betase.p": "0.36",
+  "henbio_wf.task_betase.outputFileName": "result",
+  "henbio_wf.task_betase.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_betase.mount_paths": "oss://demo/ false"
+}

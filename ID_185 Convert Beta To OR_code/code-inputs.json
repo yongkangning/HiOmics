@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_code.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_code.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_code.BETA": "1.5",
+  "henbio_wf.task_code.SE": "0.36",
+  "henbio_wf.task_code.outputFileName": "/demo/huwenyuu/code/result",
+  "henbio_wf.task_code.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_code.mount_paths": "oss://demo/ false"
+}

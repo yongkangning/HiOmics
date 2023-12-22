@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_bowtie2WithoutHost.fastqRead1": "",
+    "henbio_wf.task_bowtie2WithoutHost.fastqRead2": "",
+    "henbio_wf.task_bowtie2WithoutHost.bowtie2Index": "",
+    "henbio_wf.task_bowtie2WithoutHost.cluster_config": "OnDemand ecs.g6.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_bowtie2WithoutHost.mount_paths": "oss://demo/ true"
+}

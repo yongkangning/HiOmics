@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_descri.appBinDir": "/demo/public/apps/tools/LiangSW/DP/",
+    "henbio_wf.task_descri.input_file": "/demo/public/demo_data/DP/demo_descri.csv",
+    "henbio_wf.task_descri.cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.task_descri.mount_paths": "oss://demo/ true"
+}

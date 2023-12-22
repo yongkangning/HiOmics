@@ -1,0 +1,12 @@
+{
+    "henbio_wf.task_qiliansuo.type": "type1",
+    "henbio_wf.task_qiliansuo.inputfileDir": "/demo/demo_data/qiliansuo/",
+    "henbio_wf.task_qiliansuo.inputFilePrefix": "geno",
+    "henbio_wf.task_qiliansuo.chaunkou": "50",
+    "henbio_wf.task_qiliansuo.qianyu": "5",
+    "henbio_wf.task_qiliansuo.shanchu": "2",
+    "henbio_wf.task_qiliansuo.r2yuzhe": "0.2",
+    "henbio_wf.task_qiliansuo.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_qiliansuo.mount_paths": "oss://demo/ false"
+}
+

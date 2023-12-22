@@ -1,0 +1,8 @@
+{   "henbio_wf.task_ychuanxianshixin.checkY": "F",
+    "henbio_wf.task_ychuanxianshixin.inputfileDir": "/demo/demo_data/ychuanxianshixin",
+    "henbio_wf.task_ychuanxianshixin.inputFilePrefix": "geno",
+    "henbio_wf.task_ychuanxianshixin.min": "0.05",
+    "henbio_wf.task_ychuanxianshixin.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_ychuanxianshixin.mount_paths": "oss://demo/ false"
+}
+
