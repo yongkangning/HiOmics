@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_bbdukWithoutHost.fastqRead1": "",
+    "henbio_wf.task_bbdukWithoutHost.fastqRead2": "",
+    "henbio_wf.task_bbdukWithoutHost.referenceGenome": "",
+    "henbio_wf.task_bbdukWithoutHost.cluster_config": "OnDemand ecs.g6.8xlarge img-ubuntu-vpc",
+    "henbio_wf.task_bbdukWithoutHost.mount_paths": "oss://demo/ true"
+}

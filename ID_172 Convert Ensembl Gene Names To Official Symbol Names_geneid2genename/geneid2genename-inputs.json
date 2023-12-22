@@ -1,0 +1,9 @@
+{
+  "henbio_wf.task_geneid2genename.inputFile1": "/demo/demo_data/geneid2genename/geneCount_all.csv",
+  "henbio_wf.task_geneid2genename.inputFile2": "/demo/demo_data/geneid2genename/TranscriptIDVersion2GeneName.txt",
+  "henbio_wf.task_geneid2genename.outputFile": "GeneCountMatrix.txt",
+  "henbio_wf.task_geneid2genename.appDir": "/demo/public/apps/tools",
+  "henbio_wf.task_geneid2genename.RLibPath": "/demo/public/R/library/",
+  "henbio_wf.task_geneid2genename.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_geneid2genename.mount_paths": "oss://demo/ false"
+}

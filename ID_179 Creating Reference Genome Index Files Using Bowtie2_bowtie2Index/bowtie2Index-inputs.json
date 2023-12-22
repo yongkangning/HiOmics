@@ -1,0 +1,5 @@
+{
+    "henbio_wf.task_bowtie2Index.referenceGenome": "",
+    "henbio_wf.task_bowtie2Index.cluster_config": "OnDemand ecs.g6.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_bowtie2Index.mount_paths": "oss://demo/ true"
+}

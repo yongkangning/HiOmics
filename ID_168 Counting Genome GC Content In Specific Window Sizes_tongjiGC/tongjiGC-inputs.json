@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_tongjiGC.inputfile1": "/demo/demo_data/tongjiGC/ucsc.hg19.fasta",
+    "henbio_wf.task_tongjiGC.inputfile2": "/demo/demo_data/tongjiGC/result1.bed",
+    "henbio_wf.task_tongjiGC.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_tongjiGC.mount_paths": "oss://demo/ true"
+}

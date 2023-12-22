@@ -1,0 +1,16 @@
+{
+  "henbio_wf.task_Y_break.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Y_break.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Y_break.inputFile": "/demo/demo_data/Y_break/input1.txt",
+  "henbio_wf.task_Y_break.xdata": "AAP",
+  "henbio_wf.task_Y_break.ydata": "mean",
+  "henbio_wf.task_Y_break.is_group": "Sex",
+  "henbio_wf.task_Y_break.y_min": "500",
+  "henbio_wf.task_Y_break.y_max": "1200",
+  "henbio_wf.task_Y_break.x_title": "x",
+  "henbio_wf.task_Y_break.y_title": "y",
+  "henbio_wf.task_Y_break.plot_title": "vioplot",
+  "henbio_wf.task_Y_break.outputFileName": "result",
+  "henbio_wf.task_Y_break.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_Y_break.mount_paths": "oss://demo/ false"
+  }

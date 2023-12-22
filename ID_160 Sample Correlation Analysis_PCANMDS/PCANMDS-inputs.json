@@ -1,0 +1,12 @@
+{
+  "henbio_wf.task_PCANMDS.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_PCANMDS.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_PCANMDS.inputFile1": "/demo/demo_data/PCANMDS/GeneCountMatrix.txt",
+  "henbio_wf.task_PCANMDS.inputFile2": "/demo/demo_data/PCANMDS/metadata.txt",
+  "henbio_wf.task_PCANMDS.outputFileName1": "result1",
+  "henbio_wf.task_PCANMDS.outputFileName3": "result3",
+  "henbio_wf.task_PCANMDS.outputFileName4": "result4",
+  "henbio_wf.task_PCANMDS.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_PCANMDS.mount_paths": "oss://demo/ false"
+}
+ 

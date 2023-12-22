@@ -1,0 +1,21 @@
+{
+    "henbio_wf.task_luoji.appBinDir": "/demo/public/apps/tools/LiangSW/clf_LR/",
+    "henbio_wf.task_luoji.mode_choose": "train",
+    "henbio_wf.task_luoji.Y_lb_TF": "T",
+    "henbio_wf.task_luoji.input_model": "NAN",
+    "henbio_wf.task_luoji.input_file1": "/demo/public/demo_data/luoji/train1.csv",
+    "henbio_wf.task_luoji.input_file2": "/demo/public/demo_data/luoji/train2.csv",
+    "henbio_wf.task_luoji.rate": "0.2",
+    "henbio_wf.task_luoji.shuffle_TF": "T",
+    "henbio_wf.task_luoji.cv_TF": "T",
+    "henbio_wf.task_luoji.cv_times": "5",
+    "henbio_wf.task_luoji.cv_scoring": "None",
+    "henbio_wf.task_luoji.LR_diy_TF": "0",
+    "henbio_wf.task_luoji.LR_penalty": "0",
+    "henbio_wf.task_luoji.LR_C": "0",
+    "henbio_wf.task_luoji.LR_fi": "0",
+    "henbio_wf.task_luoji.LR_tol": "0",
+    "henbio_wf.task_luoji.LR_max_iter": "0",
+    "henbio_wf.task_luoji.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_luoji.mount_paths": "oss://demo/ false"
+}

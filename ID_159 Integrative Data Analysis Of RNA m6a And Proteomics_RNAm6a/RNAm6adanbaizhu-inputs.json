@@ -1,0 +1,15 @@
+ {
+  "henbio_wf.task_RNAm6adanbaizhu.appBinDir": "/demo/apps/tools",
+  "henbio_wf.task_RNAm6adanbaizhu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_RNAm6adanbaizhu.inputFile2": "/demo/demo_data/RNAm6adanbaizhu/analyteType1.csv",
+  "henbio_wf.task_RNAm6adanbaizhu.inputFile3": "/demo/demo_data/RNAm6adanbaizhu/analyteType2.csv",
+  "henbio_wf.task_RNAm6adanbaizhu.inputFile6": "/demo/demo_data/RNAm6adanbaizhu/pData.csv",
+  "henbio_wf.task_RNAm6adanbaizhu.in_colname": "PBO_vs_Leukemia",
+  "henbio_wf.task_RNAm6adanbaizhu.category": "discrete_variable",
+  "henbio_wf.task_RNAm6adanbaizhu.plot": "yes",   
+  "henbio_wf.task_RNAm6adanbaizhu.outcomeAnalyteOf_Interest": "Periaxin",
+  "henbio_wf.task_RNAm6adanbaizhu.independentAnalyteOf_Interest": "human_m6A_10",
+  "henbio_wf.task_RNAm6adanbaizhu.outputFileName": "result",
+  "henbio_wf.task_RNAm6adanbaizhu.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_RNAm6adanbaizhu.mount_paths": "oss://demo/ true"
+}

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_SNP.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_SNP.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_SNP.inputFile": "/demo/demo_data/SNP/result.csv",
+  "henbio_wf.task_SNP.name_beta": "BETA",
+  "henbio_wf.task_SNP.outputFileName": "want",
+  "henbio_wf.task_SNP.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_SNP.mount_paths": "oss://demo/henbio_web/ false"
+}
+ 

@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_chromsizes.inputfile": "/demo/demo_data/chromsizes/ucsc.hg19.fasta",
+    "henbio_wf.task_chromsizes.number": "5000000",
+    "henbio_wf.task_chromsizes.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_chromsizes.mount_paths": "oss://demo/ false"
+}

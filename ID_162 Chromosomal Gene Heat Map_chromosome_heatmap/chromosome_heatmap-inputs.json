@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_chromosome_heatmap.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_chromosome_heatmap.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_chromosome_heatmap.inputFile1": "/demo/demo_data/chromosome_heatmap/input1_human_karyotype.csv",
+  "henbio_wf.task_chromosome_heatmap.inputFile2": "/demo/demo_data/chromosome_heatmap/input2_gene_density.csv",
+  "henbio_wf.task_chromosome_heatmap.inputFile3": "/demo/demo_data/chromosome_heatmap/input3_LTR_density.csv",
+  "henbio_wf.task_chromosome_heatmap.outputFileName": "chromosome_heatmap",
+  "henbio_wf.task_chromosome_heatmap.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_chromosome_heatmap.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_chromosome_density.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_chromosome_density.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_chromosome_density.inputFile1": "/demo/demo_data/chromosome_density/input1_human_karyotype.csv",
+  "henbio_wf.task_chromosome_density.inputFile2": "/demo/demo_data/chromosome_density/input2_gene_density.csv",
+  "henbio_wf.task_chromosome_density.inputFile3": "/demo/demo_data/chromosome_density/input3_Random_RNAs_500.csv",
+  "henbio_wf.task_chromosome_density.outputFileName": "result",
+  "henbio_wf.task_chromosome_density.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_chromosome_density.mount_paths": "oss://demo/ false"
+}
