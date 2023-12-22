@@ -24,7 +24,7 @@ if (is.na(is_name)) {
 }
 
 
-outputFileName <- args[6]##
+outputFileName <- args[6]
 if (is.na(outputFileName)) {
   outputFileName <- "shanjitu"
 }

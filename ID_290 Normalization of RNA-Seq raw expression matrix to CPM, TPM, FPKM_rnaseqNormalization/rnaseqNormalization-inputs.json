@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_rnaseqNormalization.readCountFile": "/demo/rnaseqNormalization/raw_count.tsv",
+    "henbio_wf.task_rnaseqNormalization.appDir": "/demo/public/apps/tools",
+    "henbio_wf.task_rnaseqNormalization.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_rnaseqNormalization.mount_paths": "oss://demo/ false"
+}

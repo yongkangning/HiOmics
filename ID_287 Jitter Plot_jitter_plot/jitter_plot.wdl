@@ -1,15 +1,19 @@
-task task_sequence_logo {
+task task_jitter_plot {
   String appBinDir
   String RLibPath
   String inputFile
-  String is_col
-  String is_method
+  String jitter_width
+  String point_size
+  String errorbar_size
+  String x_title
+  String y_title
+  String is_title
   String outputFileName
   String cluster_config
   String mount_paths
 
   command <<<
-   Rscript ${appBinDir}/sequence_logo.R ${RLibPath} ${inputFile} ${is_col} ${is_method} ${outputFileName}
+   Rscript ${appBinDir}/jitter_plot.R ${RLibPath} ${inputFile} ${jitter_width} ${point_size} ${errorbar_size} ${x_title} ${y_title} ${is_title} ${outputFileName}
 	 >>>
 
   output {
@@ -25,8 +29,8 @@ task task_sequence_logo {
   }
 }
 workflow henbio_wf {
-  call task_sequence_logo
+  call task_jitter_plot
   output{
-  task_sequence_logo.outFile
+  task_jitter_plot.outFile
   }
 }

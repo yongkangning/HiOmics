@@ -1,0 +1,14 @@
+{
+  "henbio_wf.task_jitter_plot.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_jitter_plot.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_jitter_plot.inputFile": "/demo/public/demo_data/jitter_plot/input.csv",
+  "henbio_wf.task_jitter_plot.jitter_width": "0.1",
+  "henbio_wf.task_jitter_plot.point_size": "6",
+  "henbio_wf.task_jitter_plot.errorbar_size": "1.5",
+  "henbio_wf.task_jitter_plot.x_title": "x",
+  "henbio_wf.task_jitter_plot.y_title": "y",
+  "henbio_wf.task_jitter_plot.is_title": "plot",
+  "henbio_wf.task_jitter_plot.outputFileName": "result",
+  "henbio_wf.task_jitter_plot.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_jitter_plot.mount_paths": "oss://demo/ false"
+ }

@@ -32,7 +32,7 @@ filetype <- file_suffix[length(file_suffix)]
 
 encode <-
   guess_encoding(filename1, n_max = 1000)[1, 1, drop = TRUE]
-
+# print(encode)
 if(is.na(encode)) {
   stop(paste("[ERRO]", filename1,"encoding_nonsupport"))
 }
@@ -82,7 +82,7 @@ if(filetype %in% c("csv","txt")){
 
 library(ggplate)
 svg(filename = "result.svg")
-if(colour %in% c("colour1")){
+if(colour %in% c("colour1")){ 
 plate_plot(
   data = data,
   position = well,

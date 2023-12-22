@@ -1,32 +1,21 @@
-version 1.0
-
 task task_shanjitu {
-  input {
-    String inputFile1
-    String x_title
-    String y_title
-    String is_name
-    String outputFileName
-
-    String ossTargetDir
-
-    String appBinDir
-    String RLibPath
-    String cromwellDir
-  }
-
+  String appBinDir
+  String RLibPath
+  String inputFile1
+  String x_title
+  String y_title
+  String is_name
+  String outputFileName
+  String cluster_config
+  String mount_paths
+ 
   command <<<
-    set -eo pipefail
-    # download input from oss
-    ~{appBinDir}/ossutil64 -c ~{appBinDir}/ossutilconfig  cp oss:/~{inputFile1} ./inputFile1.csv
-    # check input data
-    ~{appBinDir}/datacheck_v1.0 -i inputFile1.csv -o inputFile2.csv -c true -d true -s 1
-    # genarate the result
-    Rscript ~{appBinDir}/shanjitu.R ~{RLibPath} inputFile2.csv ~{x_title} ~{y_title} ~{is_name} ~{outputFileName}
-    # update result to oss
-    task_id=`echo $PWD | sed -e s"#~{cromwellDir}/##" -e s"#/execution##"`
-    ls ~{outputFileName}.svg stdout stderr | xargs -P 3 -I {}  ~{appBinDir}/ossutil64 -c ~{appBinDir}/ossutilconfig  cp -f {} oss:/~{ossTargetDir}/${task_id}/
-  >>>
+    set -o pipefail
+    set -e
+    cp ${appBinDir}/datacheck_v1.0 /usr/local/bin/
+    datacheck_v1.0 -i ${inputFile1} -o inputFile1.txt -c true -d true -s 0
+    Rscript ${appBinDir}/shanjitu.R ${RLibPath} inputFile1.txt ${x_title} ${y_title} ${is_name} ${outputFileName}
+	  >>>
 
   output {
     File outFile = "${outputFileName}.svg"
@@ -34,14 +23,15 @@ task task_shanjitu {
  
   runtime {
     docker: "registry.cn-shenzhen.aliyuncs.com/henbio-pro/henbio:rstudio-r-base-4.2.0-focal"
+    cluster: cluster_config
+    mounts: mount_paths
+    autoReleaseJob: false
     timeout: 600
   }
 }
-
 workflow henbio_wf {
   call task_shanjitu
-
-  output {
-    File outFile = task_shanjitu.outFile
+  output{
+    task_shanjitu.outFile
   }
 }

@@ -1,0 +1,17 @@
+{
+    "henbio_wf.metadata": "/demo/demo_data/ampliconSeq/samplesheet.tsv",
+    "henbio_wf.fastqDir": "/demo/demo_data/ampliconSeq/",
+    "henbio_wf.barcode_left_length": "10",
+    "henbio_wf.primer_left_len": "19",
+    "henbio_wf.primer_rigth_len": "18",
+    "henbio_wf.barcode_rigth_length": "0",
+    "henbio_wf.uniques_max": "20000",
+    "henbio_wf.minuniquesize": "5",
+    "henbio_wf.annotation_db": "silva",
+    "henbio_wf.appBinDir": "/demo/apps/utils/",
+    "henbio_wf.db": "/demo/workflow/16s_pipeline",
+    "henbio_wf.base_cluster_config": "OnDemand ecs.g6.2xlarge img-ubuntu-vpc",
+    "henbio_wf.lefse_cluster_config": "OnDemand bcs.es.c.large img-ubuntu-vpc",
+    "henbio_wf.picrust2_cluster_config": "OnDemand ecs.g6.2xlarge img-ubuntu-vpc",
+    "henbio_wf.mount_paths": "oss://demo/ false"
+}

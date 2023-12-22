@@ -1,0 +1,6 @@
+{   
+    "henbio_wf.task_tiquzdingyue.inputfile": "/demo/demo_data/tiquzdingyue/input.pdf",
+    "henbio_wf.task_tiquzdingyue.yuema": "1-2 4-5 7",
+    "henbio_wf.task_tiquzdingyue.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_tiquzdingyue.mount_paths": "oss://demo/ false"
+}

@@ -1,0 +1,6 @@
+{   "henbio_wf.task_pdfjiami.inputfile": "/demo/demo_data/pdfjiami/k121.pdf",
+    "henbio_wf.task_pdfjiami.type": "128wei",
+    "henbio_wf.task_pdfjiami.mm": "12345678910",
+    "henbio_wf.task_pdfjiami.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_pdfjiami.mount_paths": "oss://demo/ false"
+}

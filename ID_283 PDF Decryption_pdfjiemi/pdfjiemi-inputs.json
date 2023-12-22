@@ -1,0 +1,6 @@
+{   
+    "henbio_wf.task_pdfjiemi.inputfile": "/demo/demo_data/pdfjiemi/result.pdf",
+    "henbio_wf.task_pdfjiemi.foopass": "123456",
+    "henbio_wf.task_pdfjiemi.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_pdfjiemi.mount_paths": "oss://demo/ false"
+}

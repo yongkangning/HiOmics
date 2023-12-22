@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_Plate_Plot.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_Plate_Plot.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_Plate_Plot.inputFile": "/demo/demo_data/Plate_Plot/input.csv",
+  "henbio_wf.task_Plate_Plot.is_title": "Custom_Title",
+  "henbio_wf.task_Plate_Plot.colour": "colour1",
+  "henbio_wf.task_Plate_Plot.is_size": "96",
+  "henbio_wf.task_Plate_Plot.is_type": "round",
+  "henbio_wf.task_Plate_Plot.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_Plate_Plot.mount_paths": "oss://demo/ false"
+ }

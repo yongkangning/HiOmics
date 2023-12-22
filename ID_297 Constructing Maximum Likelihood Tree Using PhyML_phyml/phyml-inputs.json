@@ -1,0 +1,13 @@
+{   "henbio_wf.task_phyml.inputFile": "/demo/phyml/jiuprimatesNT.phy",
+    "henbio_wf.task_phyml.type": "type4",
+    "henbio_wf.task_phyml.p": "10",
+    "henbio_wf.task_phyml.d": "nt",
+    "henbio_wf.task_phyml.b": "1234",
+    "henbio_wf.task_phyml.m": "JC69",
+    "henbio_wf.task_phyml.f": "m",
+    "henbio_wf.task_phyml.v": "e",
+    "henbio_wf.task_phyml.a": "e",
+    "henbio_wf.task_phyml.o": "tlr",
+    "henbio_wf.task_phyml.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_phyml.mount_paths": "oss://demo/ false"
+}

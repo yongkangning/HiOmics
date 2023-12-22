@@ -1,0 +1,11 @@
+{
+    "henbio_wf.task_chipSeqWorkflow.sampleDescFile": "/demo/demo_data/chipSeqWorkflow/metadata.csv",
+    "henbio_wf.task_chipSeqWorkflow.sampleDir": "/demo/demo_data/chipSeqWorkflow/data",
+    "henbio_wf.task_chipSeqWorkflow.readLength": "75",
+    "henbio_wf.task_chipSeqWorkflow.fastaFile": "/demo/public/demo_data/chipSeqWorkflow/genome/genome.fa",
+    "henbio_wf.task_chipSeqWorkflow.gtfFile": "/demo/public/demo_data/chipSeqWorkflow/genome/genes.gtf",
+    "henbio_wf.task_chipSeqWorkflow.bwaIndex": "/demo/public/demo_data/chipSeqWorkflow/bwa_index",
+    "henbio_wf.task_chipSeqWorkflow.nextflowPipelinePath": "/henbio/henbio_web/public/workflow",
+    "henbio_wf.task_chipSeqWorkflow.cluster_config": "OnDemand ecs.g6.8xlarge img-ubuntu-vpc",
+    "henbio_wf.task_chipSeqWorkflow.mount_paths": "oss://demo/ false"
+}

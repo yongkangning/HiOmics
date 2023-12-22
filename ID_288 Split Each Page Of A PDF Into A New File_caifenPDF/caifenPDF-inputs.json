@@ -1,0 +1,5 @@
+{   
+    "henbio_wf.task_caifenPDF.inputfile": "/demo/demo_data/caifenPDF/input.pdf",
+    "henbio_wf.task_caifenPDF.cluster_config": "cls-402t6queam4r52r4i6i004",
+    "henbio_wf.task_caifenPDF.mount_paths": "oss://demo/ true"
+}

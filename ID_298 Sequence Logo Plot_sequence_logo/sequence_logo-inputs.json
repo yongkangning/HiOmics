@@ -1,0 +1,10 @@
+{
+  "henbio_wf.task_sequence_logo.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_sequence_logo.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_sequence_logo.inputFile": "/demo/demo_data/sequence_logo/input.fasta",
+  "henbio_wf.task_sequence_logo.is_col": "auto",
+  "henbio_wf.task_sequence_logo.is_method": "bits",
+  "henbio_wf.task_sequence_logo.outputFileName": "result",
+  "henbio_wf.task_sequence_logo.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+  "henbio_wf.task_sequence_logo.mount_paths": "oss://demo/ false"
+ }

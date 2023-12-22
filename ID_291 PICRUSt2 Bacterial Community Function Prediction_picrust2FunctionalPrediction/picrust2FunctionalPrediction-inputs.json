@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_picrust2FunctionalPrediction.otuFastaFile": "/demo/demo_data/picrust2FunctionalPrediction/otus.fa",
+    "henbio_wf.task_picrust2FunctionalPrediction.otuAbundanceFile": "/demo/demo_data/picrust2FunctionalPrediction/otu_table.txt",
+    "henbio_wf.task_picrust2FunctionalPrediction.cluster_config": "OnDemand bcs.ps.r.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_picrust2FunctionalPrediction.mount_paths": "oss://demo/ false"
+}

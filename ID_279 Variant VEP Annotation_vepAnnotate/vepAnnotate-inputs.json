@@ -1,0 +1,7 @@
+{
+    "henbio_wf.task_vepAnnotate.vcfFile": "/demo/demo_data/vepAnnotate/NA12878.vcf.gz",
+    "henbio_wf.task_vepAnnotate.referenceVersion": "GRCh38",
+    "henbio_wf.task_vepAnnotate.vepDbCache": "/demo/public/db/vep_108",
+    "henbio_wf.task_vepAnnotate.cluster_config": "OnDemand bcs.es.c.xlarge img-ubuntu-vpc",
+    "henbio_wf.task_vepAnnotate.mount_paths": "oss://demo/ false"
+}

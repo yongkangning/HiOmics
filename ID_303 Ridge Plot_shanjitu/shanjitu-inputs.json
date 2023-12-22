@@ -1,0 +1,11 @@
+{
+  "henbio_wf.task_shanjitu.appBinDir": "/demo/public/apps/tools",
+  "henbio_wf.task_shanjitu.RLibPath": "/demo/public/R/library",
+  "henbio_wf.task_shanjitu.inputFile1": "/demo/demo_data/shanjitu/input2.csv",
+  "henbio_wf.task_shanjitu.x_title": "MeanTemperature",
+  "henbio_wf.task_shanjitu.y_title": "Month",
+  "henbio_wf.task_shanjitu.is_name": "Temperatures_in_Lincoln_NE",
+  "henbio_wf.task_shanjitu.outputFileName": "shanjitu",
+  "henbio_wf.task_shanjitu.cluster_config": "cls-402t6queam4r52r4i6i004",
+  "henbio_wf.task_shanjitu.mount_paths": "oss://demo/ false"
+}

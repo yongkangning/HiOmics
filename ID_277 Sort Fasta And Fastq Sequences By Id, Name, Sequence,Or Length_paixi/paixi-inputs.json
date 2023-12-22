@@ -1,0 +1,6 @@
+{
+    "henbio_wf.task_paixi.inputfile": "/demo/demo_data/paixi/gene.fq",
+    "henbio_wf.task_paixi.type": "type1",
+    "henbio_wf.task_paixi.cluster_config": "OnDemand ecs.c6.large img-ubuntu-vpc",
+    "henbio_wf.task_paixi.mount_paths": "oss://demo/ false"
+}

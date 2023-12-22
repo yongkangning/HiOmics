@@ -1,0 +1,5 @@
+{   
+    "henbio_wf.task_xuanzpdf.inputfile": "/demo/demo_data/xuanzpdf/unsecured.pdf",
+    "henbio_wf.task_xuanzpdf.cluster_config": "cls-402t6queam4r52r4i6i004",
+    "henbio_wf.task_xuanzpdf.mount_paths": "oss://demo/ false"
+}
